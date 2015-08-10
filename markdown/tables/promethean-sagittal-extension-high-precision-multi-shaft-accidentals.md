@@ -1,0 +1,37 @@
+Promethean Sagittal extension (high precision) multi-shaft accidentals (U+E3B0–U+E3EF)
+======================================================================================
+
+| **Glyph** | **Description** | **Glyph** | **Description**
+| :-------: | --------------- | :-------: | ---------------
+|<span class="bravura_large">&#xe3b0;</span> | **U+E3B0**<br/>*accSagittalSharp23SDown*<br/>Sharp 23S-down | <span class="bravura_large">&#xe3b1;</span> | **U+E3B1**<br/>*accSagittalFlat23SUp*<br/>Flat 23S-up
+|<span class="bravura_large">&#xe3b2;</span> | **U+E3B2**<br/>*accSagittalSharp49SDown*<br/>Sharp 49S-down | <span class="bravura_large">&#xe3b3;</span> | **U+E3B3**<br/>*accSagittalFlat49SUp*<br/>Flat 49S-up
+|<span class="bravura_large">&#xe3b4;</span> | **U+E3B4**<br/>*accSagittalSharp7v19CDown*<br/>Sharp 7:19C-down | <span class="bravura_large">&#xe3b5;</span> | **U+E3B5**<br/>*accSagittalFlat7v19CUp*<br/>Flat 7:19C-up
+|<span class="bravura_large">&#xe3b6;</span> | **U+E3B6**<br/>*accSagittalSharp19CDown*<br/>Sharp 19C-down | <span class="bravura_large">&#xe3b7;</span> | **U+E3B7**<br/>*accSagittalFlat19CUp*<br/>Flat 19C-up
+|<span class="bravura_large">&#xe3b8;</span> | **U+E3B8**<br/>*accSagittalSharp11v49CDown*<br/>Sharp 11:49C-down | <span class="bravura_large">&#xe3b9;</span> | **U+E3B9**<br/>*accSagittalFlat11v49CUp*<br/>Flat 11:49C-up
+|<span class="bravura_large">&#xe3ba;</span> | **U+E3BA**<br/>*accSagittalSharp143CDown*<br/>Sharp 143C-down | <span class="bravura_large">&#xe3bb;</span> | **U+E3BB**<br/>*accSagittalFlat143CUp*<br/>Flat 143C-up
+|<span class="bravura_large">&#xe3bc;</span> | **U+E3BC**<br/>*accSagittalSharp17kDown*<br/>Sharp 17k-down | <span class="bravura_large">&#xe3bd;</span> | **U+E3BD**<br/>*accSagittalFlat17kUp*<br/>Flat 17k-up
+|<span class="bravura_large">&#xe3be;</span> | **U+E3BE**<br/>*accSagittalSharp19sDown*<br/>Sharp 19s-down | <span class="bravura_large">&#xe3bf;</span> | **U+E3BF**<br/>*accSagittalFlat19sUp*<br/>Flat 19s-up
+|<span class="bravura_large">&#xe3c0;</span> | **U+E3C0**<br/>*accSagittalSharp19sUp*<br/>Sharp 19s-up | <span class="bravura_large">&#xe3c1;</span> | **U+E3C1**<br/>*accSagittalFlat19sDown*<br/>Flat 19s-down
+|<span class="bravura_large">&#xe3c2;</span> | **U+E3C2**<br/>*accSagittalSharp17kUp*<br/>Sharp 17k-up | <span class="bravura_large">&#xe3c3;</span> | **U+E3C3**<br/>*accSagittalFlat17kDown*<br/>Flat 17k-down
+|<span class="bravura_large">&#xe3c4;</span> | **U+E3C4**<br/>*accSagittalSharp143CUp*<br/>Sharp 143C-up | <span class="bravura_large">&#xe3c5;</span> | **U+E3C5**<br/>*accSagittalFlat143CDown*<br/>Flat 143C-down
+|<span class="bravura_large">&#xe3c6;</span> | **U+E3C6**<br/>*accSagittalSharp11v49CUp*<br/>Sharp 11:49C-up | <span class="bravura_large">&#xe3c7;</span> | **U+E3C7**<br/>*accSagittalFlat11v49CDown*<br/>Flat 11:49C-down
+|<span class="bravura_large">&#xe3c8;</span> | **U+E3C8**<br/>*accSagittalSharp19CUp*<br/>Sharp 19C-up | <span class="bravura_large">&#xe3c9;</span> | **U+E3C9**<br/>*accSagittalFlat19CDown*<br/>Flat 19C-down
+|<span class="bravura_large">&#xe3ca;</span> | **U+E3CA**<br/>*accSagittalSharp7v19CUp*<br/>Sharp 7:19C-up | <span class="bravura_large">&#xe3cb;</span> | **U+E3CB**<br/>*accSagittalFlat7v19CDown*<br/>Flat 7:19C-down
+|<span class="bravura_large">&#xe3cc;</span> | **U+E3CC**<br/>*accSagittalSharp49SUp*<br/>Sharp 49S-up | <span class="bravura_large">&#xe3cd;</span> | **U+E3CD**<br/>*accSagittalFlat49SDown*<br/>Flat 49S-down
+|<span class="bravura_large">&#xe3ce;</span> | **U+E3CE**<br/>*accSagittalSharp23SUp*<br/>Sharp 23S-up | <span class="bravura_large">&#xe3cf;</span> | **U+E3CF**<br/>*accSagittalFlat23SDown*<br/>Flat 23S-down
+|<span class="bravura_large">&#xe3d0;</span> | **U+E3D0**<br/>*accSagittalSharp5v13MUp*<br/>Sharp 5:13M-up | <span class="bravura_large">&#xe3d1;</span> | **U+E3D1**<br/>*accSagittalFlat5v13MDown*<br/>Flat 5:13M-down
+|<span class="bravura_large">&#xe3d2;</span> | **U+E3D2**<br/>*accSagittalSharp11v19MUp*<br/>Sharp 11:19M-up | <span class="bravura_large">&#xe3d3;</span> | **U+E3D3**<br/>*accSagittalFlat11v19MDown*<br/>Flat 11:19M-down
+|<span class="bravura_large">&#xe3d4;</span> | **U+E3D4**<br/>*accSagittalSharp49MUp*<br/>Sharp 49M-up | <span class="bravura_large">&#xe3d5;</span> | **U+E3D5**<br/>*accSagittalFlat49MDown*<br/>Flat 49M-down
+|<span class="bravura_large">&#xe3d6;</span> | **U+E3D6**<br/>*accSagittalSharp5v49MUp*<br/>Sharp 5:49M-up, (one and a half apotomes) | <span class="bravura_large">&#xe3d7;</span> | **U+E3D7**<br/>*accSagittalFlat5v49MDown*<br/>Flat 5:49M-down
+|<span class="bravura_large">&#xe3d8;</span> | **U+E3D8**<br/>*accSagittalSharp49LUp*<br/>Sharp 49L-up | <span class="bravura_large">&#xe3d9;</span> | **U+E3D9**<br/>*accSagittalFlat49LDown*<br/>Flat 49L-down
+|<span class="bravura_large">&#xe3da;</span> | **U+E3DA**<br/>*accSagittalSharp11v19LUp*<br/>Sharp 11:19L-up | <span class="bravura_large">&#xe3db;</span> | **U+E3DB**<br/>*accSagittalFlat11v19LDown*<br/>Flat 11:19L-down
+|<span class="bravura_large">&#xe3dc;</span> | **U+E3DC**<br/>*accSagittalSharp5v13LUp*<br/>Sharp 5:13L-up | <span class="bravura_large">&#xe3dd;</span> | **U+E3DD**<br/>*accSagittalFlat5v13LDown*<br/>Flat 5:13L-down
+|<span class="bravura_large">&#xe3de;</span> | **U+E3DE**<br/>*accSagittalUnused3*<br/>Unused | <span class="bravura_large">&#xe3df;</span> | **U+E3DF**<br/>*accSagittalUnused4*<br/>Unused
+|<span class="bravura_large">&#xe3e0;</span> | **U+E3E0**<br/>*accSagittalDoubleSharp23SDown*<br/>Double sharp 23S-down | <span class="bravura_large">&#xe3e1;</span> | **U+E3E1**<br/>*accSagittalDoubleFlat23SUp*<br/>Double flat 23S-up
+|<span class="bravura_large">&#xe3e2;</span> | **U+E3E2**<br/>*accSagittalDoubleSharp49SDown*<br/>Double sharp 49S-down | <span class="bravura_large">&#xe3e3;</span> | **U+E3E3**<br/>*accSagittalDoubleFlat49SUp*<br/>Double flat 49S-up
+|<span class="bravura_large">&#xe3e4;</span> | **U+E3E4**<br/>*accSagittalDoubleSharp7v19CDown*<br/>Double sharp 7:19C-down | <span class="bravura_large">&#xe3e5;</span> | **U+E3E5**<br/>*accSagittalDoubleFlat7v19CUp*<br/>Double flat 7:19C-up
+|<span class="bravura_large">&#xe3e6;</span> | **U+E3E6**<br/>*accSagittalDoubleSharp19CDown*<br/>Double sharp 19C-down | <span class="bravura_large">&#xe3e7;</span> | **U+E3E7**<br/>*accSagittalDoubleFlat19CUp*<br/>Double flat 19C-up
+|<span class="bravura_large">&#xe3e8;</span> | **U+E3E8**<br/>*accSagittalDoubleSharp11v49CDown*<br/>Double sharp 11:49C-down | <span class="bravura_large">&#xe3e9;</span> | **U+E3E9**<br/>*accSagittalDoubleFlat11v49CUp*<br/>Double flat 11:49C-up
+|<span class="bravura_large">&#xe3ea;</span> | **U+E3EA**<br/>*accSagittalDoubleSharp143CDown*<br/>Double sharp 143C-down | <span class="bravura_large">&#xe3eb;</span> | **U+E3EB**<br/>*accSagittalDoubleFlat143CUp*<br/>Double flat 143C-up
+|<span class="bravura_large">&#xe3ec;</span> | **U+E3EC**<br/>*accSagittalDoubleSharp17kDown*<br/>Double sharp 17k-down | <span class="bravura_large">&#xe3ed;</span> | **U+E3ED**<br/>*accSagittalDoubleFlat17kUp*<br/>Double flat 17k-up
+|<span class="bravura_large">&#xe3ee;</span> | **U+E3EE**<br/>*accSagittalDoubleSharp19sDown*<br/>Double sharp 19s-down | <span class="bravura_large">&#xe3ef;</span> | **U+E3EF**<br/>*accSagittalDoubleFlat19sUp*<br/>Double flat 19s-up

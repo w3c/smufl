@@ -1,0 +1,20 @@
+Promethean Sagittal extension (high precision) single-shaft accidentals (U+E390–U+E3AF)
+=======================================================================================
+
+| **Glyph** | **Description** | **Glyph** | **Description**
+| :-------: | --------------- | :-------: | ---------------
+|<span class="bravura_large">&#xe390;</span> | **U+E390**<br/>*accSagittal19SchismaUp*<br/>19 schisma up, (19s) | <span class="bravura_large">&#xe391;</span> | **U+E391**<br/>*accSagittal19SchismaDown*<br/>19 schisma down
+|<span class="bravura_large">&#xe392;</span> | **U+E392**<br/>*accSagittal17KleismaUp*<br/>17 kleisma up, (17k) | <span class="bravura_large">&#xe393;</span> | **U+E393**<br/>*accSagittal17KleismaDown*<br/>17 kleisma down
+|<span class="bravura_large">&#xe394;</span> | **U+E394**<br/>*accSagittal143CommaUp*<br/>143 comma up, (143C, 13L less 11M) | <span class="bravura_large">&#xe395;</span> | **U+E395**<br/>*accSagittal143CommaDown*<br/>143 comma down
+|<span class="bravura_large">&#xe396;</span> | **U+E396**<br/>*accSagittal11v49CommaUp*<br/>11:49 comma up, (11:49C, 11M less 49C) | <span class="bravura_large">&#xe397;</span> | **U+E397**<br/>*accSagittal11v49CommaDown*<br/>11:49 comma down
+|<span class="bravura_large">&#xe398;</span> | **U+E398**<br/>*accSagittal19CommaUp*<br/>19 comma up, (19C) | <span class="bravura_large">&#xe399;</span> | **U+E399**<br/>*accSagittal19CommaDown*<br/>19 comma down
+|<span class="bravura_large">&#xe39a;</span> | **U+E39A**<br/>*accSagittal7v19CommaUp*<br/>7:19 comma up, (7:19C, 7C less 19s) | <span class="bravura_large">&#xe39b;</span> | **U+E39B**<br/>*accSagittal7v19CommaDown*<br/>7:19 comma down
+|<span class="bravura_large">&#xe39c;</span> | **U+E39C**<br/>*accSagittal49SmallDiesisUp*<br/>49 small diesis up, (49S, ~31S) | <span class="bravura_large">&#xe39d;</span> | **U+E39D**<br/>*accSagittal49SmallDiesisDown*<br/>49 small diesis down
+|<span class="bravura_large">&#xe39e;</span> | **U+E39E**<br/>*accSagittal23SmallDiesisUp*<br/>23 small diesis up, (23S) | <span class="bravura_large">&#xe39f;</span> | **U+E39F**<br/>*accSagittal23SmallDiesisDown*<br/>23 small diesis down
+|<span class="bravura_large">&#xe3a0;</span> | **U+E3A0**<br/>*accSagittal5v13MediumDiesisUp*<br/>5:13 medium diesis up, (5:13M, ~37M, 5C plus 13C) | <span class="bravura_large">&#xe3a1;</span> | **U+E3A1**<br/>*accSagittal5v13MediumDiesisDown*<br/>5:13 medium diesis down
+|<span class="bravura_large">&#xe3a2;</span> | **U+E3A2**<br/>*accSagittal11v19MediumDiesisUp*<br/>11:19 medium diesis up, (11:19M, 11M plus 19s) | <span class="bravura_large">&#xe3a3;</span> | **U+E3A3**<br/>*accSagittal11v19MediumDiesisDown*<br/>11:19 medium diesis down
+|<span class="bravura_large">&#xe3a4;</span> | **U+E3A4**<br/>*accSagittal49MediumDiesisUp*<br/>49 medium diesis up, (49M, ~31M, 7C plus 7C) | <span class="bravura_large">&#xe3a5;</span> | **U+E3A5**<br/>*accSagittal49MediumDiesisDown*<br/>49 medium diesis down
+|<span class="bravura_large">&#xe3a6;</span> | **U+E3A6**<br/>*accSagittal5v49MediumDiesisUp*<br/>5:49 medium diesis up, (5:49M, half apotome) | <span class="bravura_large">&#xe3a7;</span> | **U+E3A7**<br/>*accSagittal5v49MediumDiesisDown*<br/>5:49 medium diesis down
+|<span class="bravura_large">&#xe3a8;</span> | **U+E3A8**<br/>*accSagittal49LargeDiesisUp*<br/>49 large diesis up, (49L, ~31L, apotome less 49M) | <span class="bravura_large">&#xe3a9;</span> | **U+E3A9**<br/>*accSagittal49LargeDiesisDown*<br/>49 large diesis down
+|<span class="bravura_large">&#xe3aa;</span> | **U+E3AA**<br/>*accSagittal11v19LargeDiesisUp*<br/>11:19 large diesis up, (11:19L, apotome less 11:19M) | <span class="bravura_large">&#xe3ab;</span> | **U+E3AB**<br/>*accSagittal11v19LargeDiesisDown*<br/>11:19 large diesis down
+|<span class="bravura_large">&#xe3ac;</span> | **U+E3AC**<br/>*accSagittal5v13LargeDiesisUp*<br/>5:13 large diesis up, (5:13L, ~37L, apotome less 5:13M) | <span class="bravura_large">&#xe3ad;</span> | **U+E3AD**<br/>*accSagittal5v13LargeDiesisDown*<br/>5:13 large diesis down

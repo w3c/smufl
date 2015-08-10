@@ -3,5 +3,5 @@
 @font-face
 {
   font-family: 'Bravura Text';
-  src: url('https://github.com/steinbergmedia/bravura/raw/master/redist/otf/BravuraText.otf');
+  src: url('../media/BravuraText.woff');
 }

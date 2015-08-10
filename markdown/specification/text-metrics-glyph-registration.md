@@ -88,14 +88,14 @@ specific guidelines are as follows:
     around 0.5 em in height (e.g. a scale factor of 150% compared to
     fonts intended for use in scoring applications).
 
--   Keyboard pedal marks should be scaled such that e.g. the <span class="bravura"></span> symbol is
+-   Keyboard pedal marks should be scaled such that e.g. the <span class="bravura">&#xE650;</span> symbol is
     around 0.75 em in height (e.g. a scale factor of 130% compared to
     fonts intended for use in scoring applications).
 
 -   Percussion pictograms should be scaled such that they are around
     0.75 em in height.
 
--   Figured bass digits should be scaled such that e.g. <span class="bravura"></span> is around 0.5
+-   Figured bass digits should be scaled such that e.g. <span class="bravura">&#xEA58;</span> is around 0.5
     em in height (e.g. a scale factor of 185% compared to fonts intended
     for use in scoring applications).
 

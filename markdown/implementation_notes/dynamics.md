@@ -4,10 +4,10 @@ using primitives rather than **dynamicCrescendoHairpin** and
 thickness, angle and aperture.
 
 Ligatures should be defined for common combinations of dynamics, such as
-<span class="bravura"></span>. Special attention should be paid to kerning
+<span class="bravura">&#xE52C;</span>. Special attention should be paid to kerning
 pairs for these glyphs.
 
 Scoring applications may choose to draw dynamics either using multiple
-glyphs (e.g. 3 x **dynamicForte** for <span class="bravura"></span>) or using
+glyphs (e.g. 3 x **dynamicForte** for <span class="bravura">&#xE530;</span>) or using
 the pre-composed glyph (e.g. 1 x **dynamicFFF** for
-<span class="bravura"></span>).
+<span class="bravura">&#xE530;</span>).

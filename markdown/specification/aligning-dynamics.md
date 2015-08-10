@@ -27,5 +27,5 @@ half the advance width is an acceptable default in the absence of a
 specific optical center position determined by the font designer.
 
 The opticalCenter point can be set by the font designer to provide a
-very specific balancing point, relative to e.g. the bowl of the italic <span class="bravura"></span>
-or the curve at the top of the italic <span class="bravura"></span>.
+very specific balancing point, relative to e.g. the bowl of the italic <span class="bravura">&#xE520;</span>
+or the curve at the top of the italic <span class="bravura">&#xE522;</span>.

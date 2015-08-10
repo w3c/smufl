@@ -3,7 +3,7 @@ Repeat offsets
 
 The repeatOffset point is defined for glyphs that are designed to
 tessellate, such as the wiggly line that follows the
-<span class="bravura"></span> symbol, or any of the glyphs in the
+<span class="bravura">&#xE566;</span> symbol, or any of the glyphs in the
 **Multi-segment lines** range.
 
 These glyphs are registered such that they may have negative side

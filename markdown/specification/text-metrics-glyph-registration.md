@@ -52,7 +52,7 @@ specific guidelines are as follows:
 
 -   Time signature digits should also have an advance width of zero, so
     that they can be positioned above each other (using the
-    timeSigCombNumerator and timeSigCombDenominator ligatures).
+    **timeSigCombNumerator** and **timeSigCombDenominator** ligatures).
 
 -   Clefs should be positioned such that they are aligned with the
     five-line staff glyphs (e.g. staff5lines) at their most usual staff
@@ -77,8 +77,8 @@ specific guidelines are as follows:
     control characters and glyphs in the class combiningStaffPositions
     using a glyph substitution feature such as OpenType ligatures. This
     allows the end user to position e.g. a black notehead on the
-    second-highest staff line by using a ligature of staffPosRaise2
-    and noteheadBlack.
+    second-highest staff line by using a ligature of **staffPosRaise2**
+    and **noteheadBlack**.
 
 -   Letters for dynamics and numbers for octave lines should be scaled
     such that the x-height is around 0.5 em, consistent with other

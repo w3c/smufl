@@ -13,7 +13,7 @@ Assuming Python is correctly installed and detected by your installation of Font
 * Click the **Run macro** button in the toolbar of the **Edit Macro** window to run the macro. An extra **Output** window will appear, and log the output of the script as it runs, including any errors.
 
 ## Important: Set GLYPHNAMES\_JSON\_FILEPATH at the top of the script
-Each of the supplied script relies on the presence of the **glyphnames.json** metadata file that is part of the main SMuFL distribution. [Download the metadata zip file](http://www.smufl.org/download/), and unzip it to a known location.
+Apart from **add_anchors.py**, all of the supplied script relies on the presence of the **glyphnames.json** metadata file that is part of the main SMuFL distribution. [Download the metadata zip file](http://www.smufl.org/download/), and unzip it to a known location.
 
 In the **Edit Macro** window in FontLab Studio, find the line that reads:
 
@@ -60,3 +60,16 @@ From a given font intended for use in scoring applications, creates a font inten
 It does this by saving a copy of the open font file, adjusting the various names (to add **Text** to the end), then makes adjustments to the font metrics, glyph scaling, and glyph registration as required to handle the differences in guidelines between fonts intended for scoring and text-based applications.
 
 The script also creates ligatures for ranges of characters that are intended to be combined with the control characters in the **Combining staff positions** range, and will create a suitable **liga** OpenType feature table (or append entries to the existing one, if present).
+
+### add_anchors.py
+Adds the recommended anchor points for things like glyph cut-outs, stem attachment points for noteheads, optical centers for dynamics, and so on to your font, using the values from the Bravura metadata file, to save the labour of manually adding and correctly naming the anchor points to each glyph individually. After running the script, you will need to manually adjust and check the position of every anchor point, as the position of each anchor point is simply set using its value from the Bravura metadata file.
+
+This script relies on the Note field for each glyph being set to the appropriate SMuFL glyph name to identify the destination glyphs. As such, you should run the **annotate_glyphs_with_smufl_names.py** script if you have not already done so.
+
+Finally, before running this script, ensure you have the **bravura_metadata.json** file in an accessible location. Then, in the **Edit Macro** window in FontLab Studio, find the line that reads:
+
+```
+BRAVURA_METADATA_JSON_FILEPATH = ''
+```
+
+and edit this to the fully qualified path to the location of the metadata file.

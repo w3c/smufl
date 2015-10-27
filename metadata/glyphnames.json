@@ -1302,7 +1302,7 @@
         "description": "Five-quarter-tones sharp"
     }, 
     "accidentalFlat": {
-        "alternateCodepoint": "266D", 
+        "alternateCodepoint": "U+266D", 
         "codepoint": "U+E260", 
         "description": "Flat"
     }, 
@@ -1427,7 +1427,7 @@
         "description": "Narrow reversed flat and flat(three-quarter-tones flat)"
     }, 
     "accidentalNatural": {
-        "alternateCodepoint": "266E", 
+        "alternateCodepoint": "U+266E", 
         "codepoint": "U+E261", 
         "description": "Natural"
     }, 
@@ -1586,7 +1586,7 @@
         "description": "Reversed flat with arrow up"
     }, 
     "accidentalSharp": {
-        "alternateCodepoint": "266F", 
+        "alternateCodepoint": "U+266F", 
         "codepoint": "U+E262", 
         "description": "Sharp"
     }, 

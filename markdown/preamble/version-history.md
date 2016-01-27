@@ -1,6 +1,12 @@
 Version history
 ===============
 
+Version 1.20 (DRAFT IN PROGRESS):
+
+-   Changed specification for font metadata locations on Linux to match the
+    recommendations of the XDG Base Directory Specification
+    ([#39](https://github.com/w3c/smufl/issues/39)).
+
 Version 1.19 (2015-08-07):
 
 -   Corrected implementation notes to clarify how brace glyphs should be

@@ -1,6 +1,12 @@
 Version history
 ===============
 
+Version 1.20 (DRAFT IN PROGRESS):
+
+-   Converted license for SMuFL specification from MIT License to W3C
+    Community Contributor License Agreement (CLA) Deed
+    ([#37](https://github.com/w3c/smufl/issues/37)).
+
 Version 1.19 (2015-08-07):
 
 -   Corrected implementation notes to clarify how brace glyphs should be

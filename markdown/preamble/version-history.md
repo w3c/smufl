@@ -6,6 +6,9 @@ Version 1.20 (DRAFT IN PROGRESS):
 -   Changed specification for font metadata locations on Linux to match the
     recommendations of the XDG Base Directory Specification
     ([#39](https://github.com/w3c/smufl/issues/39)).
+-   Converted license for SMuFL specification from MIT License to W3C
+    Community Contributor License Agreement (CLA) Deed
+    ([#37](https://github.com/w3c/smufl/issues/37)).
 
 Version 1.19 (2015-08-07):
 

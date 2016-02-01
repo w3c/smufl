@@ -20,10 +20,13 @@ system-wide location that allows access by all users on the system:
 -   OS X: /Library/Application
     Support/SMuFL/Fonts/*fontname*/*fontname*.json
 
--   Linux: /usr/share/SMuFL/Fonts/*fontname*/*fontname*.json
+-   Linux: $XDG_DATA_DIRS/SMuFL/Fonts/*fontname*/*fontname*.json
 
 On Windows, the %COMMONPROGRAMFILES% environment variable expands to
 C:\\Program Files\\Common Files, or its localised equivalent.
+
+On Linux, $XDG_DATA_DIRS is an environment variable defined by the
+[XDG Base Directory Specification](http://standards.freedesktop.org/basedir-spec/latest/).
 
 It is typically necessary to require administrator privileges to install
 files into these locations. However, it is also recommended that, if
@@ -41,13 +44,16 @@ system-wide location, use a user-specific location instead:
 -   OS X: \~/Library/Application
     Support/SMuFL/Fonts/*fontname*/*fontname*.json
 
--   Linux: \~/.local/share/SMuFL/Fonts/*fontname*/*fontname*.json
+-   Linux: $XDG_DATA_HOME/SMuFL/Fonts/*fontname*/*fontname*.json
 
 On Windows, %LOCALAPPDATA% expands to
 C:\\Users\\*username*\\AppData\\Local.
 
-On OS X and Linux, \~ is a shortcut to the current user's home folder,
-e.g. /Users/*username*/ on OS X.
+On Linux, $XDG_DATA_HOME is an environment variable for user-specific configuration files,
+defined by the [XDG Base Directory Specification](http://standards.freedesktop.org/basedir-spec/latest/).
+
+On OS X, \~ is a shortcut to the current user's home folder,
+e.g. /Users/*username*/.
 
 It is not typically necessary to require administrator privileges to
 install files into these locations. However, files installed in these

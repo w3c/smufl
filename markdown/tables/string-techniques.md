@@ -14,7 +14,9 @@ String techniques (U+E610–U+E62F)
 |<span class="bravura_large">&#xe620;</span> | **U+E620**<br/>*stringsJeteAbove*<br/>Jeté (gettato) above | <span class="bravura_large">&#xe621;</span> | **U+E621**<br/>*stringsJeteBelow*<br/>Jeté (gettato) below
 |<span class="bravura_large">&#xe622;</span> | **U+E622**<br/>*stringsFouette*<br/>Fouetté | <span class="bravura_large">&#xe623;</span> | **U+E623**<br/>*stringsVibratoPulse*<br/>Vibrato pulse accent (Saunders) for stem
 |<span class="bravura_large">&#xe624;</span> | **U+E624**<br/>*stringsThumbPosition*<br/>Thumb position | <span class="bravura_large">&#xe625;</span> | **U+E625**<br/>*stringsThumbPositionTurned*<br/>Turned thumb position
-|<span class="bravura_large">&#xe626;</span> | **U+E626**<br/>*stringsChangeBowDirection*<br/>Change bow direction, indeterminate | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xe626;</span> | **U+E626**<br/>*stringsChangeBowDirection*<br/>Change bow direction, indeterminate | <span class="bravura_large">&#xe627;</span> | **U+E627**<br/>*stringsBowBehindBridgeOneString*<br/>Bow behind bridge on one string
+|<span class="bravura_large">&#xe628;</span> | **U+E628**<br/>*stringsBowBehindBridgeTwoStrings*<br/>Bow behind bridge on two strings | <span class="bravura_large">&#xe629;</span> | **U+E629**<br/>*stringsBowBehindBridgeThreeStrings*<br/>Bow behind bridge on three strings
+|<span class="bravura_large">&#xe62a;</span> | **U+E62A**<br/>*stringsBowBehindBridgeFourStrings*<br/>Bow behind bridge on four strings | &nbsp; | &nbsp;
 
 Recommended stylistic alternates
 --------------------------------

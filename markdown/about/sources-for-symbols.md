@@ -5,6 +5,8 @@ In addition to surveying the music fonts supplied with existing major
 scoring applications, the following texts were consulted as sources for
 musical symbols:
 
+-	Abbās (al-), Ḥabīb Ẓāhir, et حبيب ظاهر Ḥabīb Dhāhir العباس. نظرياتالموسيقى العربية Nadhariyyāt al-Mūsīqā al-ʿArabiyya. Vol. Theorie Musique Arabe. (Baghdad – Irak) بغداد – العراق: وزارة الثقافةوالٳعلام، دائرة الفنون الموسيقية، معهد الدراسات النغمية العراقى (Wizārat a-th-Thaqāfa wa-l Iʿlām, Dāʾirat al-Funūn al-Mūsīqiyya, Maʿhad a-d-Dirāsāt a-n-Naghmiyya al-ʿIrāqiyy), 1986.
+
 -   Agostini, Dante. *Methode de Batterie*. France: Carisch
     Musicom, 2009.
 
@@ -18,8 +20,14 @@ musical symbols:
 -   Balestrieri, Donald. *Registers of the Standard Stradella Keyboard
     Accordion*. USA: Accord Magazine, 1979.[^7]
 
+-	Couperin, François. *L'Art de Toucher Le Clavecin*. France, 1716.
+
 -   Davis, Roger E. *The Organists’ Manual.* New York: W. W.
     Norton, 1985.
+
+-	Deyoe, Nicholas. *Lachenmann for the Conductor: Understanding, Learning, 
+	and Rehearsing Helmut Lachenmann’s "...zwei Gefühle..." Musik mit Leonardo.
+	UC San Diego, CA, USA: 2008.
 
 -   Doty, David B. *The Just Intonation Primer*. San Francisco, USA: The
     Just Intonation Network, 1993.

@@ -65,8 +65,8 @@ Recommended ligatures
 ---------------------
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xf560;</span> | **uniE0F5_uniE0A4_uniE0F6**<br/>*noteheadBlackParens*<br/>Parenthesised black notehead | <span class="bravura_large">&#xf561;</span> | **uniE0F5_uniE0A3_uniE0F6**<br/>*noteheadHalfParens*<br/>Parenthesised half notehead
-|<span class="bravura_large">&#xf562;</span> | **uniE0F5_uniE0A2_uniE0F6**<br/>*noteheadWholeParens*<br/>Parenthesised whole (semibreve) notehead | <span class="bravura_large">&#xf563;</span> | **uniE0F5_uniE0A0_uniE0F6**<br/>*noteheadDoubleWholeParens*<br/>Parenthesised double whole (breve) notehead
+|<span class="bravura_large">&#xf56c;</span> | **uniE0F5_uniE0A4_uniE0F6**<br/>*noteheadBlackParens*<br/>Parenthesised black notehead | <span class="bravura_large">&#xf56d;</span> | **uniE0F5_uniE0A3_uniE0F6**<br/>*noteheadHalfParens*<br/>Parenthesised half notehead
+|<span class="bravura_large">&#xf56e;</span> | **uniE0F5_uniE0A2_uniE0F6**<br/>*noteheadWholeParens*<br/>Parenthesised whole (semibreve) notehead | <span class="bravura_large">&#xf56f;</span> | **uniE0F5_uniE0A0_uniE0F6**<br/>*noteheadDoubleWholeParens*<br/>Parenthesised double whole (breve) notehead
 
 Implementation notes
 ---------------------

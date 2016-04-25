@@ -15,9 +15,10 @@ Guitar (U+E830–U+E84F)
 |<span class="bravura_large">&#xe842;</span> | **U+E842**<br/>*guitarGolpe*<br/>Golpe (tapping the pick guard) | <span class="bravura_large">&#xe843;</span> | **U+E843**<br/>*guitarFadeIn*<br/>Fade in
 |<span class="bravura_large">&#xe844;</span> | **U+E844**<br/>*guitarFadeOut*<br/>Fade out | <span class="bravura_large">&#xe845;</span> | **U+E845**<br/>*guitarVolumeSwell*<br/>Volume swell
 |<span class="bravura_large">&#xe846;</span> | **U+E846**<br/>*guitarStrumUp*<br/>Strum direction up | <span class="bravura_large">&#xe847;</span> | **U+E847**<br/>*guitarStrumDown*<br/>Strum direction down
+|<span class="bravura_large">&#xe848;</span> | **U+E848**<br/>*guitarBarreFull*<br/>Full barré | <span class="bravura_large">&#xe849;</span> | **U+E849**<br/>*guitarBarreHalf*<br/>Half barré
 
 Recommended stylistic alternates
 --------------------------------
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xf4b8;</span> | **uniE842.salt01**<br/>*guitarGolpeFlamenco*<br/>Golpe (tapping the pick guard) (Vounelakos) | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xf4b8;</span> | **uniE842.salt01**<br/>*guitarGolpeFlamenco*<br/>Golpe (tapping the pick guard) (Vounelakos) | <span class="bravura_large">&#xf4c1;</span> | **uniE849.salt01**<br/>*guitarBarreHalfHorizontalFractionSlash*<br/>Half barré (horizontal fraction separator)

@@ -3,10 +3,10 @@ five-line stave, and should be scaled proportionally (i.e. in both
 dimensions, not only in the vertical dimension) in a scoring application
 to the appropriate height of the two or more staves it encompasses.
 
-Font designers may choose to include a number of alternative brace
+Font designers may choose to include a number of alternative **brace**
 glyphs designed to accommodate larger distances, to avoid the standard
-brace glyph becoming too wide and bold at larger sizes. (Bravura, for
-example, includes four stylistic alternates for brace, designed to
+**brace** glyph becoming too wide and bold at larger sizes. (Bravura, for
+example, includes four stylistic alternates for **brace**, designed to
 encompass numbers of staves from one up to 10 or more.)
 
 **bracket** is a complete bracket of a fixed height useful for displaying

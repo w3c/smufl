@@ -1,6 +1,8 @@
 Octaves supplement (U+EC90–U+EC9F)
 ==================================
 
+Supplementary to [Octaves](octaves.md)
+
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
 |<span class="bravura_large">&#xec90;</span> | **U+EC90**<br/>*octaveLoco*<br/>Loco | <span class="bravura_large">&#xec91;</span> | **U+EC91**<br/>*octaveBaselineA*<br/>a (baseline)

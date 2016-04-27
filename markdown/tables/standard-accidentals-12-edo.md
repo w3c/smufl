@@ -23,9 +23,9 @@ Recommended ligatures
 ---------------------
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xf562;</span> | **uniE26A_uniE260_uniE26B**<br/>*accidentalFlatParens*<br/>Parenthesised flat | <span class="bravura_large">&#xf563;</span> | **uniE26A_uniE261_uniE26B**<br/>*accidentalNaturalParens*<br/>Parenthesised natural
-|<span class="bravura_large">&#xf564;</span> | **uniE26A_uniE262_uniE26B**<br/>*accidentalSharpParens*<br/>Parenthesised sharp | <span class="bravura_large">&#xf565;</span> | **uniE26A_uniE263_uniE26B**<br/>*accidentalDoubleSharpParens*<br/>Parenthesised double sharp
-|<span class="bravura_large">&#xf566;</span> | **uniE26A_uniE264_uniE26B**<br/>*accidentalDoubleFlatParens*<br/>Parenthesised double flat | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xf570;</span> | **uniE26A_uniE260_uniE26B**<br/>*accidentalFlatParens*<br/>Parenthesised flat | <span class="bravura_large">&#xf571;</span> | **uniE26A_uniE261_uniE26B**<br/>*accidentalNaturalParens*<br/>Parenthesised natural
+|<span class="bravura_large">&#xf572;</span> | **uniE26A_uniE262_uniE26B**<br/>*accidentalSharpParens*<br/>Parenthesised sharp | <span class="bravura_large">&#xf573;</span> | **uniE26A_uniE263_uniE26B**<br/>*accidentalDoubleSharpParens*<br/>Parenthesised double sharp
+|<span class="bravura_large">&#xf574;</span> | **uniE26A_uniE264_uniE26B**<br/>*accidentalDoubleFlatParens*<br/>Parenthesised double flat | &nbsp; | &nbsp;
 
 Implementation notes
 ---------------------

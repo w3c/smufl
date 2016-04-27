@@ -20,6 +20,8 @@ Keyboard techniques (U+E650–U+E67F)
 |<span class="bravura_large">&#xe66c;</span> | **U+E66C**<br/>*keyboardBebung4DotsAbove*<br/>Clavichord bebung, 4 finger movements (above) | <span class="bravura_large">&#xe66d;</span> | **U+E66D**<br/>*keyboardBebung4DotsBelow*<br/>Clavichord bebung, 4 finger movements (below)
 |<span class="bravura_large">&#xe66e;</span> | **U+E66E**<br/>*keyboardPlayWithRH*<br/>Play with right hand | <span class="bravura_large">&#xe66f;</span> | **U+E66F**<br/>*keyboardPlayWithRHEnd*<br/>Play with right hand (end)
 |<span class="bravura_large">&#xe670;</span> | **U+E670**<br/>*keyboardPlayWithLH*<br/>Play with left hand | <span class="bravura_large">&#xe671;</span> | **U+E671**<br/>*keyboardPlayWithLHEnd*<br/>Play with left hand (end)
+|<span class="bravura_large">&#xe672;</span> | **U+E672**<br/>*keyboardPedalHookStart*<br/>Pedal hook start | <span class="bravura_large">&#xe673;</span> | **U+E673**<br/>*keyboardPedalHookEnd*<br/>Pedal hook end
+|<span class="bravura_large">&#xe674;</span> | **U+E674**<br/>*keyboardPedalHeelToToe*<br/>Pedal heel to toe | <span class="bravura_large">&#xe675;</span> | **U+E675**<br/>*keyboardPedalToeToHeel*<br/>Pedal toe to heel
 
 Recommended stylistic alternates
 --------------------------------

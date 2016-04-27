@@ -54,6 +54,12 @@ Multi-segment lines (U+EAA0–U+EB0F)
 |<span class="bravura_large">&#xeb00;</span> | **U+EB00**<br/>*beamAccelRit13*<br/>Accel./rit. beam 13 | <span class="bravura_large">&#xeb01;</span> | **U+EB01**<br/>*beamAccelRit14*<br/>Accel./rit. beam 14
 |<span class="bravura_large">&#xeb02;</span> | **U+EB02**<br/>*beamAccelRit15*<br/>Accel./rit. beam 15 (narrowest) | <span class="bravura_large">&#xeb03;</span> | **U+EB03**<br/>*beamAccelRitFinal*<br/>Accel./rit. beam terminating line
 
+Recommended stylistic alternates
+--------------------------------
+| **Glyph** | **Description** | **Glyph** | **Description**
+| :-------: | --------------- | :-------: | ---------------
+|<span class="bravura_large">&#xf4cb;</span> | **uniEAAB.salt01**<br/>*wiggleArpeggiatoUpSwashCouperin*<br/>Arpeggiato upward swash (Couperin) | <span class="bravura_large">&#xf4cc;</span> | **uniEAAC.salt01**<br/>*wiggleArpeggiatoDownSwashCouperin*<br/>Arpeggiato downward swash (Couperin)
+
 Implementation notes
 ---------------------
 

@@ -12,6 +12,7 @@ Tremolos (U+E220–U+E23F)
 |<span class="bravura_large">&#xe22c;</span> | **U+E22C**<br/>*unmeasuredTremolo*<br/>Wieniawski unmeasured tremolo | <span class="bravura_large">&#xe22d;</span> | **U+E22D**<br/>*unmeasuredTremoloSimple*<br/>Wieniawski unmeasured tremolo (simpler)
 |<span class="bravura_large">&#xe22e;</span> | **U+E22E**<br/>*tremoloDivisiDots2*<br/>Divide measured tremolo by 2 | <span class="bravura_large">&#xe22f;</span> | **U+E22F**<br/>*tremoloDivisiDots3*<br/>Divide measured tremolo by 3
 |<span class="bravura_large">&#xe230;</span> | **U+E230**<br/>*tremoloDivisiDots4*<br/>Divide measured tremolo by 4 | <span class="bravura_large">&#xe231;</span> | **U+E231**<br/>*tremoloDivisiDots6*<br/>Divide measured tremolo by 6
+|<span class="bravura_large">&#xe232;</span> | **U+E232**<br/>*stockhausenTremolo*<br/>Stockhausen irregular tremolo ("Morsen", like Morse code) | &nbsp; | &nbsp;
 
 Implementation notes
 ---------------------

@@ -19,7 +19,7 @@ point.
 
 The groupings of characters within SMuFL are based on the groupings
 defined by Perry Roland in the Unicode Musical Symbols range, but with
-finer granularity. There are currently 109 groups of characters,
+finer granularity. There are currently 118 groups of characters,
 proceeding roughly in order from least to most idiomatic, i.e. specific
 to particular instruments, types of music, or historical periods. The
 grouping has no significance other than acting as an attempt to provide

@@ -16,6 +16,7 @@ Wind techniques (U+E5F0–U+E60F)
 |<span class="bravura_large">&#xe604;</span> | **U+E604**<br/>*windReedPositionNormal*<br/>Normal reed position | <span class="bravura_large">&#xe605;</span> | **U+E605**<br/>*windReedPositionOut*<br/>Very little reed (pull outwards)
 |<span class="bravura_large">&#xe606;</span> | **U+E606**<br/>*windReedPositionIn*<br/>Much more reed (push inwards) | <span class="bravura_large">&#xe607;</span> | **U+E607**<br/>*windMultiphonicsBlackStem*<br/>Combining multiphonics (black) for stem
 |<span class="bravura_large">&#xe608;</span> | **U+E608**<br/>*windMultiphonicsWhiteStem*<br/>Combining multiphonics (white) for stem | <span class="bravura_large">&#xe609;</span> | **U+E609**<br/>*windMultiphonicsBlackWhiteStem*<br/>Combining multiphonics (black and white) for stem
+|<span class="bravura_large">&#xe60a;</span> | **U+E60A**<br/>*windMouthpiecePop*<br/>Mouthpiece or hand pop | <span class="bravura_large">&#xe60b;</span> | **U+E60B**<br/>*windRimOnly*<br/>Rim only
 
 Recommended stylistic alternates
 --------------------------------

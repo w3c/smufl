@@ -18,4 +18,4 @@ Brass techniques (U+E5D0–U+E5EF)
 |<span class="bravura_large">&#xe5e8;</span> | **U+E5E8**<br/>*brassHarmonMuteClosed*<br/>Harmon mute, stem in | <span class="bravura_large">&#xe5e9;</span> | **U+E5E9**<br/>*brassHarmonMuteStemHalfLeft*<br/>Harmon mute, stem extended, left
 |<span class="bravura_large">&#xe5ea;</span> | **U+E5EA**<br/>*brassHarmonMuteStemHalfRight*<br/>Harmon mute, stem extended, right | <span class="bravura_large">&#xe5eb;</span> | **U+E5EB**<br/>*brassHarmonMuteStemOpen*<br/>Harmon mute, stem out
 |<span class="bravura_large">&#xe5ec;</span> | **U+E5EC**<br/>*brassLiftSmoothShort*<br/>Smooth lift, short | <span class="bravura_large">&#xe5ed;</span> | **U+E5ED**<br/>*brassLiftSmoothMedium*<br/>Smooth lift, medium
-|<span class="bravura_large">&#xe5ee;</span> | **U+E5EE**<br/>*brassLiftSmoothLong*<br/>Smooth lift, long | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xe5ee;</span> | **U+E5EE**<br/>*brassLiftSmoothLong*<br/>Smooth lift, long | <span class="bravura_large">&#xe5ef;</span> | **U+E5EF**<br/>*brassValveTrill*<br/>Valve trill

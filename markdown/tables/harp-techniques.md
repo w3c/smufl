@@ -14,7 +14,10 @@ Harp techniques (U+E680–U+E69F)
 |<span class="bravura_large">&#xe690;</span> | **U+E690**<br/>*harpTuningKey*<br/>Tuning key pictogram | <span class="bravura_large">&#xe691;</span> | **U+E691**<br/>*harpTuningKeyHandle*<br/>Use handle of tuning key pictogram
 |<span class="bravura_large">&#xe692;</span> | **U+E692**<br/>*harpTuningKeyShank*<br/>Use shank of tuning key pictogram | <span class="bravura_large">&#xe693;</span> | **U+E693**<br/>*harpTuningKeyGlissando*<br/>Retune strings for glissando
 |<span class="bravura_large">&#xe694;</span> | **U+E694**<br/>*harpStringNoiseStem*<br/>Combining string noise for stem | <span class="bravura_large">&#xe695;</span> | **U+E695**<br/>*harpSalzedoAeolianAscending*<br/>Ascending aeolian chords (Salzedo)
-|<span class="bravura_large">&#xe696;</span> | **U+E696**<br/>*harpSalzedoAeolianDescending*<br/>Descending aeolian chords (Salzedo) | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xe696;</span> | **U+E696**<br/>*harpSalzedoAeolianDescending*<br/>Descending aeolian chords (Salzedo) | <span class="bravura_large">&#xe697;</span> | **U+E697**<br/>*harpSalzedoDampLowStrings*<br/>Damp only low strings (Salzedo)
+|<span class="bravura_large">&#xe698;</span> | **U+E698**<br/>*harpSalzedoDampBothHands*<br/>Damp with both hands (Salzedo) | <span class="bravura_large">&#xe699;</span> | **U+E699**<br/>*harpSalzedoDampBelow*<br/>Damp below (Salzedo)
+|<span class="bravura_large">&#xe69a;</span> | **U+E69A**<br/>*harpSalzedoDampAbove*<br/>Damp above (Salzedo) | <span class="bravura_large">&#xe69b;</span> | **U+E69B**<br/>*harpSalzedoMetallicSoundsOneString*<br/>Metallic sounds, one string (Salzedo)
+|<span class="bravura_large">&#xe69c;</span> | **U+E69C**<br/>*harpSalzedoIsolatedSounds*<br/>Isolated sounds (Salzedo) | <span class="bravura_large">&#xe69d;</span> | **U+E69D**<br/>*harpSalzedoSnareDrum*<br/>Snare drum effect (Salzedo)
 
 Recommended stylistic alternates
 --------------------------------

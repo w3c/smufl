@@ -13,7 +13,7 @@ As an alternative, the following group (the multi-shaft Spartans)
 provides a complete set of stand-alone accidentals to replace each of
 the above combinations of a single-shaft Sagittal with a standard
 accidental. This is called “pure Sagittal.” The standard
-accidentalNatural is used alone in both mixed and pure variants, but
+**accidentalNatural** is used alone in both mixed and pure variants, but
 only to cancel a previous accidental.
 
 Sagittal accidentals are not intended to be combined with one another,

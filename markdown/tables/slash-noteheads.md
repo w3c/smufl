@@ -8,6 +8,7 @@ Slash noteheads (U+E100–U+E10F)
 |<span class="bravura_large">&#xe104;</span> | **U+E104**<br/>*noteheadSlashDiamondWhite*<br/>Large white diamond | <span class="bravura_large">&#xe105;</span> | **U+E105**<br/>*noteheadSlashVerticalEndsSmall*<br/>Small slash with vertical ends
 |<span class="bravura_large">&#xe106;</span> | **U+E106**<br/>*noteheadSlashX*<br/>Large X notehead | <span class="bravura_large">&#xe107;</span> | **U+E107**<br/>*noteheadSlashVerticalEndsMuted*<br/>Muted slash with vertical ends
 |<span class="bravura_large">&#xe108;</span> | **U+E108**<br/>*noteheadSlashHorizontalEndsMuted*<br/>Muted slash with horizontal ends | <span class="bravura_large">&#xe109;</span> | **U+E109**<br/>*noteheadSlashWhiteMuted*<br/>Muted white slash
+|<span class="bravura_large">&#xe10a;</span> | **U+E10A**<br/>*noteheadSlashWhiteDoubleWhole*<br/>White slash double whole | &nbsp; | &nbsp;
 
 Implementation notes
 ---------------------

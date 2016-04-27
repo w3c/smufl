@@ -20,6 +20,10 @@ Dynamics (U+E520–U+E54F)
 |<span class="bravura_large">&#xe53c;</span> | **U+E53C**<br/>*dynamicRinforzando1*<br/>Rinforzando 1 | <span class="bravura_large">&#xe53d;</span> | **U+E53D**<br/>*dynamicRinforzando2*<br/>Rinforzando 2
 |<span class="bravura_large">&#xe53e;</span> | **U+E53E** (and U+1D192)<br/>*dynamicCrescendoHairpin*<br/>Crescendo | <span class="bravura_large">&#xe53f;</span> | **U+E53F** (and U+1D193)<br/>*dynamicDiminuendoHairpin*<br/>Diminuendo
 |<span class="bravura_large">&#xe540;</span> | **U+E540**<br/>*dynamicMessaDiVoce*<br/>Messa di voce | <span class="bravura_large">&#xe541;</span> | **U+E541**<br/>*dynamicNienteForHairpin*<br/>Niente (for hairpins)
+|<span class="bravura_large">&#xe542;</span> | **U+E542**<br/>*dynamicHairpinParenthesisLeft*<br/>Left parenthesis (for hairpins) | <span class="bravura_large">&#xe543;</span> | **U+E543**<br/>*dynamicHairpinParenthesisRight*<br/>Right parenthesis (for hairpins)
+|<span class="bravura_large">&#xe544;</span> | **U+E544**<br/>*dynamicHairpinBracketLeft*<br/>Left bracket (for hairpins) | <span class="bravura_large">&#xe545;</span> | **U+E545**<br/>*dynamicHairpinBracketRight*<br/>Right bracket (for hairpins)
+|<span class="bravura_large">&#xe546;</span> | **U+E546**<br/>*dynamicCombinedSeparatorColon*<br/>Colon separator for combined dynamics | <span class="bravura_large">&#xe547;</span> | **U+E547**<br/>*dynamicCombinedSeparatorHyphen*<br/>Hyphen separator for combined dynamics
+|<span class="bravura_large">&#xe548;</span> | **U+E548**<br/>*dynamicCombinedSeparatorSpace*<br/>Space separator for combined dynamics | &nbsp; | &nbsp;
 
 Recommended stylistic alternates
 --------------------------------

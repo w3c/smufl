@@ -73,3 +73,8 @@ BRAVURA_METADATA_JSON_FILEPATH = ''
 ```
 
 and edit this to the fully qualified path to the location of the metadata file.
+
+### pua_to_unicode_musical_symbols.py
+Copies glyphs with duplicates in the 'Miscellaneous Symbols' or 'Musical Symbols' Unicode ranges to their appropriate alternate code points as components.
+
+Components in existing glyphs will be decomposed before the duplicate glyphs are generated.

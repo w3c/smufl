@@ -134,9 +134,7 @@ for pua, ums in genDict.iteritems():
 		newGlyph.components.append(Component(puaIndx))
 
 # Get metrics 
-		boundingBox = puaGlyph.GetBoundingRect()
 		metrics = puaGlyph.GetMetrics()
-		metrics.x = boundingBox.width
 		newGlyph.SetMetrics(metrics)
 
 # Create glyphs

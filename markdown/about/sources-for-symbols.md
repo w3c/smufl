@@ -32,6 +32,8 @@ musical symbols:
 -   Doty, David B. *The Just Intonation Primer*. San Francisco, USA: The
     Just Intonation Network, 1993.
 
+-	Dougherty, Matthew & Katz, Sam & Weber, Sam. *Proposal to encode Kahnotation*, 2016.
+
 -   Draugsvoll, Geir & Højsgaard, Erik (translated Borregaard, Andreas).
     *Handbook on Accordion Notation*. Copenhagen: The Royal Danish
     Academy of Music in Copenhagen, 2001.[^8]
@@ -53,6 +55,9 @@ musical symbols:
     the Ghent Conference* (from *The Instrumentalist,* *xxix*).
     Northfield, IL: The Instrumentalist Publishing Co., 1975.
 
+-	McKean, John. *Proposal for the encoding of German organ tablature*.
+	2017.
+
 -   Neumann, Frederick. *Ornamentation in Baroque and Post-Baroque
     Music*. Princeton, NJ: Princeton University Press, 1978.
 
@@ -64,6 +69,10 @@ musical symbols:
 
 -   Read, Gardner. *Twentieth-Century Microtonal Notation*. USA:
     Praeger, 1990.
+
+-	Richardson, Andrew Paul. *Selected solo marimba music of Raymond Hieble:
+	a guide for teaching and performance*. Oklahoma: University of Oklahoma,
+	2013.
 
 -   Roland, Perry. *Proposal for Encoding Western Music Symbols in
     ISO/IEC 10646*. Virginia: University of Virginia, 1998.

@@ -19,7 +19,3 @@ Figured bass (U+EA50–U+EA6F)
 |<span class="bravura_large">&#xea6a;</span> | **U+EA6A**<br/>*figbassParensLeft*<br/>Figured bass ( | <span class="bravura_large">&#xea6b;</span> | **U+EA6B**<br/>*figbassParensRight*<br/>Figured bass )
 |<span class="bravura_large">&#xea6c;</span> | **U+EA6C**<br/>*figbassPlus*<br/>Figured bass + | <span class="bravura_large">&#xea6d;</span> | **U+EA6D**<br/>*figbassCombiningRaising*<br/>Combining raise
 |<span class="bravura_large">&#xea6e;</span> | **U+EA6E**<br/>*figbassCombiningLowering*<br/>Combining lower | <span class="bravura_large">&#xea6f;</span> | **U+EA6F**<br/>*figbass6Raised2*<br/>Figured bass 6 raised by half-step 2
-
-Supplementary ranges
----------------------
-[Figured bass supplement](figured-bass-supplement.md)

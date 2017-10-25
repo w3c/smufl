@@ -1,4 +1,4 @@
-Herculean Sagittal extension (very high precision) accidental diacritics (U+E3F0–U+E3FF)
+Herculean Sagittal extension (very high precision) accidental diacritics (U+E3F0–U+E3F3)
 ========================================================================================
 
 | **Glyph** | **Description** | **Glyph** | **Description**

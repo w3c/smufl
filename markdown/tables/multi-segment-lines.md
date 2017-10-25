@@ -58,7 +58,7 @@ Recommended stylistic alternates
 --------------------------------
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xf4cb;</span> | **uniEAAB.salt01**<br/>*wiggleArpeggiatoUpSwashCouperin*<br/>Arpeggiato upward swash (Couperin) | <span class="bravura_large">&#xf4cc;</span> | **uniEAAC.salt01**<br/>*wiggleArpeggiatoDownSwashCouperin*<br/>Arpeggiato downward swash (Couperin)
+|<span class="bravura_large">&#xf4ca;</span> | **uniEAAB.salt01**<br/>*wiggleArpeggiatoUpSwashCouperin*<br/>Arpeggiato upward swash (Couperin) | <span class="bravura_large">&#xf4cb;</span> | **uniEAAC.salt01**<br/>*wiggleArpeggiatoDownSwashCouperin*<br/>Arpeggiato downward swash (Couperin)
 
 Implementation notes
 ---------------------

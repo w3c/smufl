@@ -11,7 +11,7 @@ measurements expressed in staff spaces:
 | "beamThickness"                | The thickness of a beam
 | "beamSpacing"                  | The distance between the inner edge of the primary and outer edge of subsequent secondary beams
 | "legerLineThickness"           | The thickness of a leger line (normally somewhat thicker than a staff line)
-| "legerLineExtension"           | The amount by which a leger line should extend either side of a notehead
+| "legerLineExtension"           | The amount by which a leger line should extend either side of a notehead, scaled proportionally with the notehead's size, e.g. when scaled down as a grace note
 | "slurEndpointThickness"        | The thickness of the end of a slur
 | "slurMidpointThickness"        | The thickness of the mid-point of a slur (i.e. its thickest point)
 | "tieEndpointThickness"         | The thickness of the end of a tie

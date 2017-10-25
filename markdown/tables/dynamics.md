@@ -23,7 +23,7 @@ Dynamics (U+E520–U+E54F)
 |<span class="bravura_large">&#xe542;</span> | **U+E542**<br/>*dynamicHairpinParenthesisLeft*<br/>Left parenthesis (for hairpins) | <span class="bravura_large">&#xe543;</span> | **U+E543**<br/>*dynamicHairpinParenthesisRight*<br/>Right parenthesis (for hairpins)
 |<span class="bravura_large">&#xe544;</span> | **U+E544**<br/>*dynamicHairpinBracketLeft*<br/>Left bracket (for hairpins) | <span class="bravura_large">&#xe545;</span> | **U+E545**<br/>*dynamicHairpinBracketRight*<br/>Right bracket (for hairpins)
 |<span class="bravura_large">&#xe546;</span> | **U+E546**<br/>*dynamicCombinedSeparatorColon*<br/>Colon separator for combined dynamics | <span class="bravura_large">&#xe547;</span> | **U+E547**<br/>*dynamicCombinedSeparatorHyphen*<br/>Hyphen separator for combined dynamics
-|<span class="bravura_large">&#xe548;</span> | **U+E548**<br/>*dynamicCombinedSeparatorSpace*<br/>Space separator for combined dynamics | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xe548;</span> | **U+E548**<br/>*dynamicCombinedSeparatorSpace*<br/>Space separator for combined dynamics | <span class="bravura_large">&#xe549;</span> | **U+E549**<br/>*dynamicCombinedSeparatorSlash*<br/>Slash separator for combined dynamics
 
 Recommended stylistic alternates
 --------------------------------

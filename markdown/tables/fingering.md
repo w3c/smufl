@@ -13,3 +13,13 @@ Fingering (U+ED10–U+ED2F)
 |<span class="bravura_large">&#xed1e;</span> | **U+ED1E**<br/>*fingeringELower*<br/>Fingering e (right-hand little finger for guitar) | <span class="bravura_large">&#xed1f;</span> | **U+ED1F**<br/>*fingeringOLower*<br/>Fingering o (right-hand little finger for guitar)
 |<span class="bravura_large">&#xed20;</span> | **U+ED20**<br/>*fingeringSubstitutionAbove*<br/>Finger substitution above | <span class="bravura_large">&#xed21;</span> | **U+ED21**<br/>*fingeringSubstitutionBelow*<br/>Finger substitution below
 |<span class="bravura_large">&#xed22;</span> | **U+ED22**<br/>*fingeringSubstitutionDash*<br/>Finger substitution dash | <span class="bravura_large">&#xed23;</span> | **U+ED23**<br/>*fingeringMultipleNotes*<br/>Multiple notes played by thumb or single finger
+|<span class="bravura_large">&#xed24;</span> | **U+ED24**<br/>*fingering6*<br/>Fingering 6 | <span class="bravura_large">&#xed25;</span> | **U+ED25**<br/>*fingering7*<br/>Fingering 7
+|<span class="bravura_large">&#xed26;</span> | **U+ED26**<br/>*fingering8*<br/>Fingering 8 | <span class="bravura_large">&#xed27;</span> | **U+ED27**<br/>*fingering9*<br/>Fingering 9
+|<span class="bravura_large">&#xed28;</span> | **U+ED28**<br/>*fingeringLeftParenthesis*<br/>Fingering left parenthesis | <span class="bravura_large">&#xed29;</span> | **U+ED29**<br/>*fingeringRightParenthesis*<br/>Fingering right parenthesis
+|<span class="bravura_large">&#xed2a;</span> | **U+ED2A**<br/>*fingeringLeftBracket*<br/>Fingering left bracket | <span class="bravura_large">&#xed2b;</span> | **U+ED2B**<br/>*fingeringRightBracket*<br/>Fingering right bracket
+|<span class="bravura_large">&#xed2c;</span> | **U+ED2C**<br/>*fingeringSeparatorMiddleDot*<br/>Fingering middle dot separator | <span class="bravura_large">&#xed2d;</span> | **U+ED2D**<br/>*fingeringSeparatorMiddleDotWhite*<br/>Fingering white middle dot separator
+|<span class="bravura_large">&#xed2e;</span> | **U+ED2E**<br/>*fingeringSeparatorSlash*<br/>Fingering forward slash separator | &nbsp; | &nbsp;
+
+Supplementary Groups
+---------------------
+[Fingering supplement](fingering-supplement.md)

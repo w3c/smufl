@@ -1,5 +1,5 @@
-This range of Kievan square notation glyphs will be encoded in Unicode
-8.0 at the code points U+1D1DE–U+1D1E8.
+This range of Kievan square notation glyphs are encoded in Unicode from
+version 8.0 at the code points [U+1D1DE–U+1D1E8](https://www.unicode.org/charts/PDF/U1D100.pdf).
 
 For **kievanNoteWholeFinal** and **kievanNoteReciting**, the symbol is
 positioned on the staff such that for a note on a staff line, the staff

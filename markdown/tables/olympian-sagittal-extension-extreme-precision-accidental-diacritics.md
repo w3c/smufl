@@ -1,4 +1,4 @@
-Olympian Sagittal extension (extreme precision) accidental diacritics (U+E400–U+E40F)
+Olympian Sagittal extension (extreme precision) accidental diacritics (U+E3F4–U+E3F7)
 =====================================================================================
 
 *Reserved for future use.*

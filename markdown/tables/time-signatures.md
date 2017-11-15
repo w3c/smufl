@@ -41,27 +41,23 @@ Recommended ligatures
 ---------------------
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xf558;</span> | **uniE09F_uniE080**<br/>*timeSig0Denominator*<br/>Time signature 0 (denominator) | <span class="bravura_large">&#xf559;</span> | **uniE09E_uniE080**<br/>*timeSig0Numerator*<br/>Time signature 0 (numerator)
-|<span class="bravura_large">&#xf55a;</span> | **uniE09F_uniE081**<br/>*timeSig1Denominator*<br/>Time signature 1 (denominator) | <span class="bravura_large">&#xf55b;</span> | **uniE09E_uniE081**<br/>*timeSig1Numerator*<br/>Time signature 1 (numerator)
-|<span class="bravura_large">&#xf55c;</span> | **uniE09F_uniE082**<br/>*timeSig2Denominator*<br/>Time signature 2 (denominator) | <span class="bravura_large">&#xf55d;</span> | **uniE09E_uniE082**<br/>*timeSig2Numerator*<br/>Time signature 2 (numerator)
-|<span class="bravura_large">&#xf55e;</span> | **uniE09F_uniE083**<br/>*timeSig3Denominator*<br/>Time signature 3 (denominator) | <span class="bravura_large">&#xf55f;</span> | **uniE09E_uniE083**<br/>*timeSig3Numerator*<br/>Time signature 3 (numerator)
-|<span class="bravura_large">&#xf560;</span> | **uniE09F_uniE084**<br/>*timeSig4Denominator*<br/>Time signature 4 (denominator) | <span class="bravura_large">&#xf561;</span> | **uniE09E_uniE084**<br/>*timeSig4Numerator*<br/>Time signature 4 (numerator)
-|<span class="bravura_large">&#xf562;</span> | **uniE09F_uniE085**<br/>*timeSig5Denominator*<br/>Time signature 5 (denominator) | <span class="bravura_large">&#xf563;</span> | **uniE09E_uniE085**<br/>*timeSig5Numerator*<br/>Time signature 5 (numerator)
-|<span class="bravura_large">&#xf564;</span> | **uniE09F_uniE086**<br/>*timeSig6Denominator*<br/>Time signature 6 (denominator) | <span class="bravura_large">&#xf565;</span> | **uniE09E_uniE086**<br/>*timeSig6Numerator*<br/>Time signature 6 (numerator)
-|<span class="bravura_large">&#xf566;</span> | **uniE09F_uniE087**<br/>*timeSig7Denominator*<br/>Time signature 7 (denominator) | <span class="bravura_large">&#xf567;</span> | **uniE09E_uniE087**<br/>*timeSig7Numerator*<br/>Time signature 7 (numerator)
-|<span class="bravura_large">&#xf568;</span> | **uniE09F_uniE088**<br/>*timeSig8Denominator*<br/>Time signature 8 (denominator) | <span class="bravura_large">&#xf569;</span> | **uniE09E_uniE088**<br/>*timeSig8Numerator*<br/>Time signature 8 (numerator)
-|<span class="bravura_large">&#xf56a;</span> | **uniE09F_uniE089**<br/>*timeSig9Denominator*<br/>Time signature 9 (denominator) | <span class="bravura_large">&#xf56b;</span> | **uniE09E_uniE089**<br/>*timeSig9Numerator*<br/>Time signature 9 (numerator)
-|<span class="bravura_large">&#xf589;</span> | **uniE09E_uniE082_uniE09F_uniE084**<br/>*timeSig2over4*<br/>2/4 time signature | <span class="bravura_large">&#xf58a;</span> | **uniE09E_uniE082_uniE09F_uniE082**<br/>*timeSig2over2*<br/>2/2 time signature
-|<span class="bravura_large">&#xf58b;</span> | **uniE09E_uniE083_uniE09F_uniE082**<br/>*timeSig3over2*<br/>3/2 time signature | <span class="bravura_large">&#xf58c;</span> | **uniE09E_uniE083_uniE09F_uniE084**<br/>*timeSig3over4*<br/>3/4 time signature
-|<span class="bravura_large">&#xf58d;</span> | **uniE09E_uniE083_uniE09F_uniE088**<br/>*timeSig3over8*<br/>3/8 time signature | <span class="bravura_large">&#xf58e;</span> | **uniE09E_uniE084_uniE09F_uniE084**<br/>*timeSig4over4*<br/>4/4 time signature
-|<span class="bravura_large">&#xf58f;</span> | **uniE09E_uniE085_uniE09F_uniE084**<br/>*timeSig5over4*<br/>5/4 time signature | <span class="bravura_large">&#xf590;</span> | **uniE09E_uniE085_uniE09F_uniE088**<br/>*timeSig5over8*<br/>5/8 time signature
-|<span class="bravura_large">&#xf591;</span> | **uniE09E_uniE086_uniE09F_uniE084**<br/>*timeSig6over4*<br/>6/4 time signature | <span class="bravura_large">&#xf592;</span> | **uniE09E_uniE086_uniE09F_uniE088**<br/>*timeSig6over8*<br/>6/8 time signature
-|<span class="bravura_large">&#xf593;</span> | **uniE09E_uniE087_uniE09F_uniE088**<br/>*timeSig7over8*<br/>7/8 time signature | <span class="bravura_large">&#xf594;</span> | **uniE09E_uniE089_uniE09F_uniE088**<br/>*timeSig9over8*<br/>9/8 time signature
-|<span class="bravura_large">&#xf595;</span> | **uniE09E_uniE081_uniE09E_uniE082_uniE09F_uniE088**<br/>*timeSig12over8*<br/>12/8 time signature | &nbsp; | &nbsp;
-
-Supplementary ranges
----------------------
-[Time signatures supplement](time-signatures-supplement.md)
+|<span class="bravura_large">&#xf56e;</span> | **uniE09F_uniE080**<br/>*timeSig0Denominator*<br/>Time signature 0 (denominator) | <span class="bravura_large">&#xf56f;</span> | **uniE09E_uniE080**<br/>*timeSig0Numerator*<br/>Time signature 0 (numerator)
+|<span class="bravura_large">&#xf570;</span> | **uniE09F_uniE081**<br/>*timeSig1Denominator*<br/>Time signature 1 (denominator) | <span class="bravura_large">&#xf571;</span> | **uniE09E_uniE081**<br/>*timeSig1Numerator*<br/>Time signature 1 (numerator)
+|<span class="bravura_large">&#xf572;</span> | **uniE09F_uniE082**<br/>*timeSig2Denominator*<br/>Time signature 2 (denominator) | <span class="bravura_large">&#xf573;</span> | **uniE09E_uniE082**<br/>*timeSig2Numerator*<br/>Time signature 2 (numerator)
+|<span class="bravura_large">&#xf574;</span> | **uniE09F_uniE083**<br/>*timeSig3Denominator*<br/>Time signature 3 (denominator) | <span class="bravura_large">&#xf575;</span> | **uniE09E_uniE083**<br/>*timeSig3Numerator*<br/>Time signature 3 (numerator)
+|<span class="bravura_large">&#xf576;</span> | **uniE09F_uniE084**<br/>*timeSig4Denominator*<br/>Time signature 4 (denominator) | <span class="bravura_large">&#xf577;</span> | **uniE09E_uniE084**<br/>*timeSig4Numerator*<br/>Time signature 4 (numerator)
+|<span class="bravura_large">&#xf578;</span> | **uniE09F_uniE085**<br/>*timeSig5Denominator*<br/>Time signature 5 (denominator) | <span class="bravura_large">&#xf579;</span> | **uniE09E_uniE085**<br/>*timeSig5Numerator*<br/>Time signature 5 (numerator)
+|<span class="bravura_large">&#xf57a;</span> | **uniE09F_uniE086**<br/>*timeSig6Denominator*<br/>Time signature 6 (denominator) | <span class="bravura_large">&#xf57b;</span> | **uniE09E_uniE086**<br/>*timeSig6Numerator*<br/>Time signature 6 (numerator)
+|<span class="bravura_large">&#xf57c;</span> | **uniE09F_uniE087**<br/>*timeSig7Denominator*<br/>Time signature 7 (denominator) | <span class="bravura_large">&#xf57d;</span> | **uniE09E_uniE087**<br/>*timeSig7Numerator*<br/>Time signature 7 (numerator)
+|<span class="bravura_large">&#xf57e;</span> | **uniE09F_uniE088**<br/>*timeSig8Denominator*<br/>Time signature 8 (denominator) | <span class="bravura_large">&#xf57f;</span> | **uniE09E_uniE088**<br/>*timeSig8Numerator*<br/>Time signature 8 (numerator)
+|<span class="bravura_large">&#xf580;</span> | **uniE09F_uniE089**<br/>*timeSig9Denominator*<br/>Time signature 9 (denominator) | <span class="bravura_large">&#xf581;</span> | **uniE09E_uniE089**<br/>*timeSig9Numerator*<br/>Time signature 9 (numerator)
+|<span class="bravura_large">&#xf59f;</span> | **uniE09E_uniE082_uniE09F_uniE084**<br/>*timeSig2over4*<br/>2/4 time signature | <span class="bravura_large">&#xf5a0;</span> | **uniE09E_uniE082_uniE09F_uniE082**<br/>*timeSig2over2*<br/>2/2 time signature
+|<span class="bravura_large">&#xf5a1;</span> | **uniE09E_uniE083_uniE09F_uniE082**<br/>*timeSig3over2*<br/>3/2 time signature | <span class="bravura_large">&#xf5a2;</span> | **uniE09E_uniE083_uniE09F_uniE084**<br/>*timeSig3over4*<br/>3/4 time signature
+|<span class="bravura_large">&#xf5a3;</span> | **uniE09E_uniE083_uniE09F_uniE088**<br/>*timeSig3over8*<br/>3/8 time signature | <span class="bravura_large">&#xf5a4;</span> | **uniE09E_uniE084_uniE09F_uniE084**<br/>*timeSig4over4*<br/>4/4 time signature
+|<span class="bravura_large">&#xf5a5;</span> | **uniE09E_uniE085_uniE09F_uniE084**<br/>*timeSig5over4*<br/>5/4 time signature | <span class="bravura_large">&#xf5a6;</span> | **uniE09E_uniE085_uniE09F_uniE088**<br/>*timeSig5over8*<br/>5/8 time signature
+|<span class="bravura_large">&#xf5a7;</span> | **uniE09E_uniE086_uniE09F_uniE084**<br/>*timeSig6over4*<br/>6/4 time signature | <span class="bravura_large">&#xf5a8;</span> | **uniE09E_uniE086_uniE09F_uniE088**<br/>*timeSig6over8*<br/>6/8 time signature
+|<span class="bravura_large">&#xf5a9;</span> | **uniE09E_uniE087_uniE09F_uniE088**<br/>*timeSig7over8*<br/>7/8 time signature | <span class="bravura_large">&#xf5aa;</span> | **uniE09E_uniE089_uniE09F_uniE088**<br/>*timeSig9over8*<br/>9/8 time signature
+|<span class="bravura_large">&#xf5ab;</span> | **uniE09E_uniE081_uniE09E_uniE082_uniE09F_uniE088**<br/>*timeSig12over8*<br/>12/8 time signature | &nbsp; | &nbsp;
 
 Implementation notes
 ---------------------

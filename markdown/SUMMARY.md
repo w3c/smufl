@@ -155,3 +155,8 @@ This is the GitBook summary of the SMuFL specification.
   * [Arabic accidentals](tables/arabic-accidentals.md)
   * [Articulation supplement](tables/articulation-supplement.md)
   * [Stockhausen accidentals (24-EDO)](tables/stockhausen-accidentals-24-edo.md)
+  * [Standard accidentals for chord symbols](tables/standard-accidentals-for-chord-symbols.md)
+  * [Clefs supplement](tables/clefs-supplement.md)
+  * [Fingering supplement](tables/fingering-supplement.md)
+  * [Kahnotation](tables/kahnotation.md)
+  * [German organ tablature](tables/german-organ-tablature.md)

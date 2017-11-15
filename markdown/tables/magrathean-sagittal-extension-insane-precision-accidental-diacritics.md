@@ -1,4 +1,4 @@
-Magrathean Sagittal extension (insane precision) accidental diacritics (U+E410–U+E41F)
+Magrathean Sagittal extension (insane precision) accidental diacritics (U+E3F8–U+E41F)
 ======================================================================================
 
 *Reserved for future use.*

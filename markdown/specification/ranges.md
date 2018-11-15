@@ -36,7 +36,7 @@ first and last code point allocated to this range respectively.
 
 The current versions of glyphnames.json, classes.json and ranges.json
 are available for download at
-[www.smufl.org/download](http://www.smufl.org/download).
+[GitHub](https://github.com/w3c/smufl/tree/gh-pages/metadata).
 
 It is further recommended that SMuFL-compliant fonts also contain
 font-specific metadata JSON files, which are described below.

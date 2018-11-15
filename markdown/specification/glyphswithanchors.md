@@ -1,9 +1,8 @@
 ### glyphsWithAnchors
 
 The "glyphsWithAnchors" structure contains a structure for each glyph
-for which metadata is supplied, with the canonical glyph name or its
-Unicode code point as the key. Each glyph may define any of the
-following key/value pairs:
+for which metadata is supplied, with the canonical glyph name as the
+key. Each glyph may define any of the following key/value pairs:
 
 | *Key name* | *Description*
 | ---------- | --------------------------

@@ -5,7 +5,7 @@ copyright © Steinberg Media Technologies GmbH. Bravura is released under
 the SIL Open Font License and can be downloaded from
 <http://www.smufl.org/fonts>
 
-This document also reproduces some glyphs from the Unicode 7.0 code
+This document also reproduces some glyphs from the Unicode 11.0 code
 chart for the Musical Symbols range
 (<http://www.unicode.org/charts/PDF/U1D100.pdf>). These glyphs are the
 copyright of their respective copyright holders, listed on the Unicode

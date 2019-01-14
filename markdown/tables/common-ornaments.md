@@ -16,12 +16,12 @@ Recommended ligatures
 ---------------------
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xf563;</span> | **uniE260_uniE566**<br/>*ornamentTrillFlatAbove*<br/>Trill, flat above | <span class="bravura_large">&#xf564;</span> | **uniE261_uniE566**<br/>*ornamentTrillNaturalAbove*<br/>Trill, natural above
-|<span class="bravura_large">&#xf565;</span> | **uniE262_uniE566**<br/>*ornamentTrillSharpAbove*<br/>Trill, sharp above | <span class="bravura_large">&#xf566;</span> | **uniE260_uniE567**<br/>*ornamentTurnFlatAbove*<br/>Turn, flat above
-|<span class="bravura_large">&#xf567;</span> | **uniE260_uniE567_uniE262**<br/>*ornamentTurnFlatAboveSharpBelow*<br/>Turn, flat above, sharp below | <span class="bravura_large">&#xf568;</span> | **uniE567_uniE260**<br/>*ornamentTurnFlatBelow*<br/>Turn, flat below
-|<span class="bravura_large">&#xf569;</span> | **uniE261_uniE567**<br/>*ornamentTurnNaturalAbove*<br/>Turn, natural above | <span class="bravura_large">&#xf56a;</span> | **uniE567_uniE261**<br/>*ornamentTurnNaturalBelow*<br/>Turn, natural below
-|<span class="bravura_large">&#xf56b;</span> | **uniE262_uniE567**<br/>*ornamentTurnSharpAbove*<br/>Turn, sharp above | <span class="bravura_large">&#xf56c;</span> | **uniE262_uniE567_uniE260**<br/>*ornamentTurnSharpAboveFlatBelow*<br/>Turn, sharp above, flat below
-|<span class="bravura_large">&#xf56d;</span> | **uniE567_uniE262**<br/>*ornamentTurnSharpBelow*<br/>Turn, sharp below | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xf5ab;</span> | **uniE260_uniE566**<br/>*ornamentTrillFlatAbove*<br/>Trill, flat above | <span class="bravura_large">&#xf5ac;</span> | **uniE261_uniE566**<br/>*ornamentTrillNaturalAbove*<br/>Trill, natural above
+|<span class="bravura_large">&#xf5ad;</span> | **uniE262_uniE566**<br/>*ornamentTrillSharpAbove*<br/>Trill, sharp above | <span class="bravura_large">&#xf5ae;</span> | **uniE260_uniE567**<br/>*ornamentTurnFlatAbove*<br/>Turn, flat above
+|<span class="bravura_large">&#xf5af;</span> | **uniE260_uniE567_uniE262**<br/>*ornamentTurnFlatAboveSharpBelow*<br/>Turn, flat above, sharp below | <span class="bravura_large">&#xf5b0;</span> | **uniE567_uniE260**<br/>*ornamentTurnFlatBelow*<br/>Turn, flat below
+|<span class="bravura_large">&#xf5b1;</span> | **uniE261_uniE567**<br/>*ornamentTurnNaturalAbove*<br/>Turn, natural above | <span class="bravura_large">&#xf5b2;</span> | **uniE567_uniE261**<br/>*ornamentTurnNaturalBelow*<br/>Turn, natural below
+|<span class="bravura_large">&#xf5b3;</span> | **uniE262_uniE567**<br/>*ornamentTurnSharpAbove*<br/>Turn, sharp above | <span class="bravura_large">&#xf5b4;</span> | **uniE262_uniE567_uniE260**<br/>*ornamentTurnSharpAboveFlatBelow*<br/>Turn, sharp above, flat below
+|<span class="bravura_large">&#xf5b5;</span> | **uniE567_uniE262**<br/>*ornamentTurnSharpBelow*<br/>Turn, sharp below | &nbsp; | &nbsp;
 
 Implementation notes
 ---------------------

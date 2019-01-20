@@ -3,7 +3,7 @@ Version history
 
 Version 1.30 (2019-01-14):
 
--   This specification is now published under the terms of the W3C Final Specification Agreement (FSA) ([#38](https://github.com/w3c/smufl/issues/38))
+-   This specification is now published under the terms of the W3C Community Final Specification Agreement (FSA) ([#38](https://github.com/w3c/smufl/issues/38))
 -	Added `dynamicCombinedSeparatorSlash` (U+E549)
 -	Added stylistic alternates for tuplet digits in lighter weight
 -	Added `keyboardPedalParensLeft` (U+E676) and `keyboardPedalParensRight` (U+E677)

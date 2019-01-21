@@ -8,7 +8,7 @@ Version 1.30 (2019-01-14):
 -	Added stylistic alternates for tuplet digits in lighter weight
 -	Added `keyboardPedalParensLeft` (U+E676) and `keyboardPedalParensRight` (U+E677)
 -	Added new [Chord symbol accidentals](../tables/standard-accidentals-for-chord-symbols.md) range (U+ED60-U+ED66)
--	Added optical variants for some chord symbols glyphs, e.g. +/- for augmented/diminished chord quality
+-	Added optical variants for some chord symbol glyphs, e.g. +/- for augmented/diminished chord quality
 -	Added optical variants for chord symbol accidentals shown at smaller sizes
 -	Added new glyphs to the [Fingering](../tables/fingering.md) range, with digits between 6 and 9, parentheses, brackets, and middle dot separator
 -	Added new [Kahnotation](../tables/kahnotation.md) range, with thanks to Matthew Dougherty, Sam Katz and Sam Weber (U+EDA0–U+EDF1) ([#58](https://github.com/w3c/smufl/issues/58))

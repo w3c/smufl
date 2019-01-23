@@ -55,18 +55,18 @@ Recommended stylistic alternates
 --------------------------------
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xf43f;</span> | **uniE0A0.salt01**<br/>*noteheadDoubleWholeAlt*<br/>Double whole note (breve), single vertical strokes | <span class="bravura_large">&#xf467;</span> | **uniE0A0.ss01**<br/>*noteheadDoubleWholeSmall*<br/>Double whole note (breve) (small staff)
-|<span class="bravura_large">&#xf4ba;</span> | **uniE0A0.ss05**<br/>*noteheadDoubleWholeOversized*<br/>Double whole note (breve) (oversized) | <span class="bravura_large">&#xf4bb;</span> | **uniE0A1.ss05**<br/>*noteheadDoubleWholeSquareOversized*<br/>Double whole note (breve) notehead (square) (oversized)
-|<span class="bravura_large">&#xf468;</span> | **uniE0A2.ss01**<br/>*noteheadWholeSmall*<br/>Whole notehead (small staff) | <span class="bravura_large">&#xf4bc;</span> | **uniE0A2.ss05**<br/>*noteheadWholeOversized*<br/>Whole notehead (oversized)
-|<span class="bravura_large">&#xf469;</span> | **uniE0A3.ss01**<br/>*noteheadHalfSmall*<br/>Half (minim) notehead (small staff) | <span class="bravura_large">&#xf4bd;</span> | **uniE0A3.ss05**<br/>*noteheadHalfOversized*<br/>Half (minim) notehead (oversized)
-|<span class="bravura_large">&#xf46a;</span> | **uniE0A4.ss01**<br/>*noteheadBlackSmall*<br/>Black notehead (small staff) | <span class="bravura_large">&#xf4be;</span> | **uniE0A4.ss05**<br/>*noteheadBlackOversized*<br/>Black notehead (oversized)
+|<span class="bravura_large">&#xf43f;</span> | **uniE0A0.salt01**<br/>*noteheadDoubleWholeAlt*<br/>Double whole note (breve), single vertical strokes | <span class="bravura_large">&#xf467;</span> | **uniE0A0.salt02**<br/>*noteheadDoubleWholeSmall*<br/>Double whole note (breve) (small staff)
+|<span class="bravura_large">&#xf4ba;</span> | **uniE0A0.salt03**<br/>*noteheadDoubleWholeOversized*<br/>Double whole note (breve) (oversized) | <span class="bravura_large">&#xf4bb;</span> | **uniE0A1.salt01**<br/>*noteheadDoubleWholeSquareOversized*<br/>Double whole note (breve) notehead (square) (oversized)
+|<span class="bravura_large">&#xf468;</span> | **uniE0A2.salt01**<br/>*noteheadWholeSmall*<br/>Whole notehead (small staff) | <span class="bravura_large">&#xf4bc;</span> | **uniE0A2.salt02**<br/>*noteheadWholeOversized*<br/>Whole notehead (oversized)
+|<span class="bravura_large">&#xf469;</span> | **uniE0A3.salt01**<br/>*noteheadHalfSmall*<br/>Half (minim) notehead (small staff) | <span class="bravura_large">&#xf4bd;</span> | **uniE0A3.salt02**<br/>*noteheadHalfOversized*<br/>Half (minim) notehead (oversized)
+|<span class="bravura_large">&#xf46a;</span> | **uniE0A4.salt01**<br/>*noteheadBlackSmall*<br/>Black notehead (small staff) | <span class="bravura_large">&#xf4be;</span> | **uniE0A4.salt02**<br/>*noteheadBlackOversized*<br/>Black notehead (oversized)
 
 Recommended ligatures
 ---------------------
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xf582;</span> | **uniE0F5_uniE0A4_uniE0F6**<br/>*noteheadBlackParens*<br/>Parenthesised black notehead | <span class="bravura_large">&#xf583;</span> | **uniE0F5_uniE0A3_uniE0F6**<br/>*noteheadHalfParens*<br/>Parenthesised half notehead
-|<span class="bravura_large">&#xf584;</span> | **uniE0F5_uniE0A2_uniE0F6**<br/>*noteheadWholeParens*<br/>Parenthesised whole (semibreve) notehead | <span class="bravura_large">&#xf585;</span> | **uniE0F5_uniE0A0_uniE0F6**<br/>*noteheadDoubleWholeParens*<br/>Parenthesised double whole (breve) notehead
+|<span class="bravura_large">&#xf5ca;</span> | **uniE0F5_uniE0A4_uniE0F6**<br/>*noteheadBlackParens*<br/>Parenthesised black notehead | <span class="bravura_large">&#xf5cb;</span> | **uniE0F5_uniE0A3_uniE0F6**<br/>*noteheadHalfParens*<br/>Parenthesised half notehead
+|<span class="bravura_large">&#xf5cc;</span> | **uniE0F5_uniE0A2_uniE0F6**<br/>*noteheadWholeParens*<br/>Parenthesised whole (semibreve) notehead | <span class="bravura_large">&#xf5cd;</span> | **uniE0F5_uniE0A0_uniE0F6**<br/>*noteheadDoubleWholeParens*<br/>Parenthesised double whole (breve) notehead
 
 Implementation notes
 ---------------------

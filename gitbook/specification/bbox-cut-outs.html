@@ -2240,7 +2240,7 @@
                                 <section class="normal markdown-section">
                                 
                                 <h2 id="bounding-box-cut-outs">Bounding box cut-outs</h2>
-<p>The four points cutOutNE, cutOutSE, cutOutSW and cutOutNW describe
+<p>The four points <code>cutOutNE</code>, <code>cutOutSE</code>, <code>cutOutSW</code> and <code>cutOutNW</code> describe
 rectangular cut-outs from the four corners of a glyph&#x2019;s rectangular
 bounding box. The bounding box is the box with the smallest area that
 encloses every part of the path of a glyph.</p>
@@ -2270,10 +2270,10 @@ each corner, as illustrated in the figure below:</p>
 <p><img src="../media/accidental-cut-outs.svg" alt=""></p>
 <p>Each cut-out is specified as a pair of X,Y coordinates (in spaces),
 describing the innermost corner of a nominal rectangle that intersects
-the bounding box. For example, cutOutNE specifies the bottom left corner
+the bounding box. For example, <code>cutOutNE</code> specifies the bottom left corner
 of a rectangle that intersects the top right corner of the bounding box
-of the glyph. The positions of each of the other corners of the cut-out
-rectangle are calculated using the bounding box of the glyph.</p>
+of the glyph. The coordinates of each cut-out are all specified relative
+to the origin of the glyph, i.e. its bottom left-hand corner.</p>
 
                                 
                                 </section>
@@ -2317,7 +2317,7 @@ rectangle are calculated using the bounding box of the glyph.</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Bounding box cut-outs","level":"1.4.6","depth":2,"next":{"title":"Repeat offsets","level":"1.4.7","depth":2,"path":"specification/repeat-offsets.md","ref":"specification/repeat-offsets.md","articles":[]},"previous":{"title":"Example of glyph registration for notes with flags","level":"1.4.5","depth":2,"path":"specification/glyph-registration-notes-flags.md","ref":"specification/glyph-registration-notes-flags.md","articles":[]},"dir":"ltr"},"config":{"plugins":[],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Standard Music Font Layout","language":"en","gitbook":">=2.0.0","description":"Specification for SMuFL"},"file":{"path":"specification/bbox-cut-outs.md","mtime":"2015-08-07T10:06:42.000Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-10-02T13:46:42.089Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Bounding box cut-outs","level":"1.4.6","depth":2,"next":{"title":"Repeat offsets","level":"1.4.7","depth":2,"path":"specification/repeat-offsets.md","ref":"specification/repeat-offsets.md","articles":[]},"previous":{"title":"Example of glyph registration for notes with flags","level":"1.4.5","depth":2,"path":"specification/glyph-registration-notes-flags.md","ref":"specification/glyph-registration-notes-flags.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-sharing"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Standard Music Font Layout","language":"en","gitbook":">=2.0.0","description":"Specification for SMuFL"},"file":{"path":"specification/bbox-cut-outs.md","mtime":"2019-01-14T22:17:03.856Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-01-23T06:51:13.186Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
@@ -2340,10 +2340,6 @@ rectangle are calculated using the bounding box of the glyph.</p>
     
         
         <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
-        
-    
-        
-        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
         
     
         

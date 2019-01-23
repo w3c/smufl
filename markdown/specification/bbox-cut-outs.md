@@ -1,7 +1,7 @@
 Bounding box cut-outs
 ---------------------
 
-The four points cutOutNE, cutOutSE, cutOutSW and cutOutNW describe
+The four points `cutOutNE`, `cutOutSE`, `cutOutSW` and `cutOutNW` describe
 rectangular cut-outs from the four corners of a glyph’s rectangular
 bounding box. The bounding box is the box with the smallest area that
 encloses every part of the path of a glyph.
@@ -38,7 +38,7 @@ each corner, as illustrated in the figure below:
 
 Each cut-out is specified as a pair of X,Y coordinates (in spaces),
 describing the innermost corner of a nominal rectangle that intersects
-the bounding box. For example, cutOutNE specifies the bottom left corner
+the bounding box. For example, `cutOutNE` specifies the bottom left corner
 of a rectangle that intersects the top right corner of the bounding box
-of the glyph. The positions of each of the other corners of the cut-out
-rectangle are calculated using the bounding box of the glyph.
+of the glyph. The coordinates of each cut-out are all specified relative
+to the origin of the glyph, i.e. its bottom left-hand corner.

@@ -1,7 +1,33 @@
 Version history
 ===============
 
-Version 1.20 (2016-04-25 / DRAFT IN PROGRESS):
+Version 1.30 (2019-01-14):
+
+-   This specification is now published under the terms of the W3C Community Final Specification Agreement (FSA) ([#38](https://github.com/w3c/smufl/issues/38))
+-	Added `dynamicCombinedSeparatorSlash` (U+E549)
+-	Added `keyboardPedalParensLeft` (U+E676) and `keyboardPedalParensRight` (U+E677)
+-	Added new [Chord symbol accidentals](../tables/standard-accidentals-for-chord-symbols.md) range (U+ED60-U+ED66)
+-	Added new glyphs to the [Fingering](../tables/fingering.md) range, with digits between 6 and 9, parentheses, brackets, and middle dot separator
+-	Added new [Kahnotation](../tables/kahnotation.md) range, with thanks to Matthew Dougherty, Sam Katz and Sam Weber (U+EDA0–U+EDF1) ([#58](https://github.com/w3c/smufl/issues/58))
+-	Added new [German organ tablature](../tables/german-organ-tablature.md) range, with thanks to John McKean (U+EE00–U+EE3F) ([#72](https://github.com/w3c/smufl/issues/72))
+-	Added new [Clefs supplement](../tables/clefs-supplement.md) range, including new universal Indian drum notation clef (U+ED70)
+-	Added new [Fingering supplement](../tables/fingering-supplement.md) range, with italic fingering digits, parentheses and brackets (U+ED80-U+ED8D)
+-	Added more separators for brass fingering (U+ED2D–U+ED2E) to [Fingering](../tables/fingering.md) range
+-	Added `pictBeaterMalletDown` (U+E7EC), `pictBeaterBrassMalletsRight` (U+E7ED), `pictBeaterBrassMalletsLeft` (U+E7EE), `pictTriangleBeaterPlain` (U+E7EF) to [Beaters pictograms](../tables/beaters-pictograms.md) range ([#73](https://github.com/w3c/smufl/issues/73), [#66](https://github.com/w3c/smufl/issues/66))
+-	Added `vocalHalbGesungen` (semi-sprechgesang) to [Vocal techniques](../tables/vocal-techniques.md) range (U+E64B) ([#68](https://github.com/w3c/smufl/issues/68))
+-	Added separate glyphs for upper dot, lower dot and central slash (U+E503–U+E505) to [Bar repeats](../tables/bar-repeats.md) range, to allow construction of bar repeats for arbitrary number of bars ([#62](https://github.com/w3c/smufl/issues/62))
+-	Added `lyricsTextRepeat` glyph (U+E555) to [Lyrics](../tables/lyrics.md) range ([#61](https://github.com/w3c/smufl/issues/61))
+-	Added one-handed roll (U+E233) and double lateral roll (U+E234) for mallet percussion, popularised by Leigh Howard Stevens, to [Tremolos](../tables/tremolos.md) range ([#56](https://github.com/w3c/smufl/issues/56))
+-   Clarified `legerLineExtension` engraving default scales according to notehead size ([#70](https://github.com/w3c/smufl/issues/70))
+-   Clarified that bounding box cut-out coordinates are relative to the glyph origin, i.e. its bottom left-hand corner ([#90](https://github.com/w3c/smufl/issues/90))
+-	Added recommended optional glyphs for tuplet digits in lighter weight to the [Tuplets](../tables/tuplets.md) range
+-   Added recommended optional glyphs for optical variants for some chord symbols glyphs, e.g. +/- for augmented/diminished chord quality for the [Chord symbols](../tables/chord-symbols.md) range
+-   Added recommended optional glyphs for optical variants for chord symbol accidentals shown at smaller sizes for the new [Chord symbol accidentals](../tables/standard-accidentals-for-chord-symbols.md) range
+-   Added recommended optional glyphs for oversized versions of the [Slash notehead](../tables/slash-noteheads.md) range
+-   Added recommended optional glyphs for new large, narrow bold serif time signatures in [Time signatures](../tables/time-signatures.md) and [Time signatures supplement](../tables/time-signatures-supplement.md) ranges
+-   Expanded range of recommended optional glyphs for large, narrow sans serif time signatures to complete [Time signatures](../tables/time-signatures.md) and [Time signatures supplement](../tables/time-signatures-supplement.md) ranges
+
+Version 1.20 (2016-04-25):
 
 -	Added double whole note slash notehead (U+E10A) ([#19](https://github.com/w3c/smufl/issues/19)).
 -	Added double-slashed black and white round noteheads, often used to denote striking piano strings (U+E11C, U+E11D) ([#22](https://github.com/w3c/smufl/issues/22)).

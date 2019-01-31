@@ -38,14 +38,12 @@ applications:
     typical notehead or accidental glyph is registered such that it is
     vertically centered on the baseline.
 
--   <span id="OLE_LINK19" class="anchor"><span id="OLE_LINK20"
-    class="anchor"></span></span>Clefs should be positioned such that
-    the pitch the clef refers to is on the baseline (e.g. the F clef is
-    placed such that the upper dot is above and the lower dot below
-    the baseline). If a clef does not refer specifically to a pitch, its
-    y=0 should coincide with the center staff line on a five-line staff,
-    or the visual center for staves with more or fewer than five
-    lines (e.g. tablature staves).
+-   Clefs should be positioned such that the pitch the clef refers to
+    is on the baseline (e.g. the F clef is placed such that the upper
+    dot is above and the lower dot below the baseline). If a clef does
+    not refer specifically to a pitch, its y=0 should coincide with the
+    center staff line on a five-line staff, or the visual center for
+    staves with more or fewer than five lines (e.g. tablature staves).
 
 -   Noteheads should be positioned as if on the bottom line of the staff
     (except for complete clusters representing intervals of a second or

@@ -162,9 +162,8 @@ Version 1.12 (2015-01-07):
 -   Added Salzedo’s symbols for ascending and descending Aeolian chords
     to the **Harp techniques** range.
 
--   <span id="OLE_LINK23" class="anchor"><span id="OLE_LINK24"
-    class="anchor"></span></span>Added short, medium, and long smooth
-    lifts to the **Brass techniques** range.
+-   Added short, medium, and long smooth lifts to the **Brass techniques**
+    range.
 
 -   Added *Hauptrhythmus* and *Choralmelodie*, as used by Alban Berg, to
     the **Analytics** range.

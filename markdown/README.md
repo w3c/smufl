@@ -1,6 +1,6 @@
 <img style="float: right;" src="media/back-cg-final.png">
 
-<a href="http://www.w3.org/"><img alt="W3C" height="48" src="http://www.w3.org/Icons/w3c_home" width="72"/></a>
+<a href="https://www.w3.org/"><img alt="W3C" height="48" src="https://www.w3.org/Icons/w3c_home" width="72"/></a>
 
 # Standard Music Font Layout (SMuFL)
 ## Version 1.3

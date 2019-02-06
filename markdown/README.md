@@ -1,5 +1,7 @@
 <img style="float: right;" src="media/back-cg-final.png">
 
+<a href="http://www.w3.org/"><img alt="W3C" height="48" src="http://www.w3.org/Icons/w3c_home" width="72"/></a>
+
 # Standard Music Font Layout (SMuFL)
 ## Version 1.3
 
@@ -15,6 +17,10 @@
 - [GitHub w3c/smufl](https://github.com/w3c/smufl)
 - [File a bug](https://github.com/w3c/smufl/issues)
 - [Commit history](https://github.com/w3c/smufl/commits/gh-pages)
+
+<p style="font-size: small">Copyright &copy; 2019 the Contributors to the SMuFL Specification version 1.3, published by the <a href="http://www.w3.org/community/music-notation/">Music Notation Community Group</a> under the <a href="http://www.w3.org/community/about/agreements/final/">W3C Community Final Specification Agreement (FSA)</a>. A human-readable <a href="http://www.w3.org/community/about/agreements/fsa-deed/">summary</a> is available.</p>
+
+---
 
 ### Abstract
 SMuFL is a specification that provides a standard way of mapping the thousands of musical symbols required by conventional music notation into the Private Use Area in Unicode’s Basic Multilingual Plane for a single (format-independent) font.

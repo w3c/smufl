@@ -18,7 +18,7 @@
 - [File a bug](https://github.com/w3c/smufl/issues)
 - [Commit history](https://github.com/w3c/smufl/commits/gh-pages)
 
-<p style="font-size: small">Copyright &copy; 2019 the Contributors to the SMuFL Specification version 1.3, published by the <a href="http://www.w3.org/community/music-notation/">Music Notation Community Group</a> under the <a href="http://www.w3.org/community/about/agreements/final/">W3C Community Final Specification Agreement (FSA)</a>. A human-readable <a href="http://www.w3.org/community/about/agreements/fsa-deed/">summary</a> is available.</p>
+<p style="font-size: small">Copyright &copy; 2019 the Contributors to the SMuFL Specification version 1.3, published by the <a href="https://www.w3.org/community/music-notation/">Music Notation Community Group</a> under the <a href="https://www.w3.org/community/about/agreements/final/">W3C Community Final Specification Agreement (FSA)</a>. A human-readable <a href="https://www.w3.org/community/about/agreements/fsa-deed/">summary</a> is available.</p>
 
 ---
 

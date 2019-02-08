@@ -9823,6 +9823,7 @@
         "description": "Quindicesima"
     }, 
     "quindicesimaAlta": {
+        "alternateCodepoint": "U+1D138", 
         "codepoint": "U+E515", 
         "description": "Quindicesima alta"
     }, 

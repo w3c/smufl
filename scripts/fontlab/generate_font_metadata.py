@@ -97,14 +97,8 @@ for g in fl.font.glyphs:
     if len(g.anchors) > 0:
         font_metadata['glyphsWithAnchors'][g.note] = {}
         for anchor in g.anchors:
-
-            if anchor.name.startswith('cutOut'):
-                fontlab_metadata['glyphsWithAnchors'][g.note][anchor.name] = \
-                    [to_cartesian(anchor.x - bounding_box.ll.x),
-                     to_cartesian(anchor.y - bounding_box.ll.y)]
-            else:
-                fontlab_metadata['glyphsWithAnchors'][g.note][anchor.name] = \
-                    [to_cartesian(anchor.x), to_cartesian(anchor.y)]
+            fontlab_metadata['glyphsWithAnchors'][g.note][anchor.name] = \
+                [to_cartesian(anchor.x), to_cartesian(anchor.y)]
 
     if int(g.unicode) >= 0xF400:
         font_metadata["optionalGlyphs"][g.note] = {'classes': []}

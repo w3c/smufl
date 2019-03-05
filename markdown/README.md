@@ -5,7 +5,7 @@
 # Standard Music Font Layout (SMuFL)
 ## Version 1.3
 
-## Final Community Group Report 22 January 2019
+## Final Community Group Report 5 March 2019
 
 **Latest editor's draft:**
 - [https://w3c.github.io/smufl](https://w3c.github.io/smufl/)

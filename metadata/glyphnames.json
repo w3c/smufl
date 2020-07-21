@@ -8477,7 +8477,7 @@
     }, 
     "ornamentPrecompPortDeVoixMordent": {
         "codepoint": "U+E5BC", 
-        "description": "Pre-beat port de voix follwed by multiple mordent (Dandrieu)"
+        "description": "Pre-beat port de voix followed by multiple mordent (Dandrieu)"
     }, 
     "ornamentPrecompSlide": {
         "codepoint": "U+E5B0", 

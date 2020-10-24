@@ -6,6 +6,7 @@ measurements expressed in staff spaces:
 
 | *Key name*                     | *Description*
 | ------------------------------ | --------------------------------------------
+| "textFontFamily"               | An array containing the text font family (or families, in descending order of preference) that are ideally paired with this music font; this list may also use the generic font family values defined in [CSS](https://www.w3.org/TR/CSS2/fonts.html#generic-font-families), i.e. **serif**, **sans-serif**, **cursive**, **fantasy**, and **monospace**. Generic font family names should be listed after specific font families.
 | "staffLineThickness"           | The thickness of each staff line
 | "stemThickness"                | The thickness of a stem
 | "beamThickness"                | The thickness of a beam
@@ -41,6 +42,7 @@ filled in:
 {
   ...
   "engravingDefaults": {
+    "textFontFamily" : [ "Academico", "Century Schoolbook", "serif" ],
     "staffLineThickness": 0.1,
     "stemThickness": 0.1,
     "beamThickness": 0.5,

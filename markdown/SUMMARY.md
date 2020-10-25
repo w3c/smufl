@@ -23,6 +23,7 @@ This is the GitBook summary of the SMuFL specification.
   * [Metrics and glyph registration for scoring applications](specification/scoring-metrics-glyph-registration.md)
   * [Metadata for SMuFL-compliant fonts](specification/font-specific-metadata.md)
     * [engravingDefaults](specification/engravingdefaults.md)
+    * [glyphAdvanceWidths](specification/glyphadvancewidths.md)
     * [glyphsWithAnchors](specification/glyphswithanchors.md)
     * [glyphsWithAlternates](specification/glyphswithalternates.md)
     * [glyphBBoxes](specification/glyphbboxes.md)

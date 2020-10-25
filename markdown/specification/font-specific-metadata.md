@@ -27,3 +27,16 @@ The following key/value pairs are mandatory:
 | "fontVersion"   | The version number of the font to which the metadata applies
 
 All other key/value pairs are optional.
+
+The following key/value pairs may be used, if desired, to specify the
+useful range of sizes for which the font is designed:
+
+| *Key name*      | *Description*
+| --------------- | ----------------------------------------------------
+| "designSize"    | The point size for which the font is optimized, specified in integral decipoints (1/720th inch)
+| "sizeRange"     | An array of two point size values, describing the smallest and largest point sizes for which the font can serve well, specified in integral decipoints (1/720th inch)
+
+These values are based on features in the OpenType font specification to specify
+design size and size range; initially these were encoded in the **size** feature
+in the GPOS table, but has been superseded by the STAT table, which defines sizes
+for families with optical size variants.

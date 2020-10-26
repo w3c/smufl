@@ -34,6 +34,7 @@ measurements expressed in staff spaces:
 | "lyricLineThickness"           | The thickness of the lyric extension line to indicate a melisma in vocal music
 | "textEnclosureThickness"       | The thickness of a box drawn around text instructions (e.g. rehearsal marks)
 | "tupletBracketThickness"       | The thickness of the brackets drawn either side of tuplet numbers
+| "hBarThickness"                | The thickness of the horizontal line drawn between two vertical lines, known as the H-bar, in a multi-bar rest
 
 Below is a dummy "engravingDefaults" structure, with some of the values
 filled in:

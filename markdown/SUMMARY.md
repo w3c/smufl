@@ -160,3 +160,4 @@ This is the GitBook summary of the SMuFL specification.
   * [Fingering supplement](tables/fingering-supplement.md)
   * [Kahnotation](tables/kahnotation.md)
   * [German organ tablature](tables/german-organ-tablature.md)
+  * [Noteheads supplement](tables/noteheads-supplement.md)

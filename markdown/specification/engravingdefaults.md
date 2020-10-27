@@ -22,7 +22,8 @@ measurements expressed in staff spaces:
 | "dashedBarlineThickness"       | The thickness of a dashed barline
 | "dashedBarlineDashLength"      | The length of the dashes to be used in a dashed barline
 | "dashedBarlineGapLength"       | The length of the gap between dashes in a dashed barline
-| "barlineSeparation"            | The default distance between multiple barlines when locked together, e.g. between two thin barlines making a double barline, or a thin and a thick barline making a final barline, measured from the right-hand edge of the left barline to the left-hand edge of the right barline.
+| "barlineSeparation"            | The default distance between multiple thin barlines when locked together, e.g. between two thin barlines making a double barline, measured from the right-hand edge of the left barline to the left-hand edge of the right barline.
+| "thinThickBarlineSeparation"   | The default distance between a pair of thin and thick barlines when locked together, e.g. between the thin and thick barlines making a final barline, or between the thick and thin barlines making a start repeat barline. 
 | "repeatBarlineDotSeparation"   | The default horizontal distance between the dots and the inner barline of a repeat barline, measured from the edge of the dots to the edge of the barline.
 | "bracketThickness"             | The thickness of the vertical line of a bracket grouping staves together
 | "subBracketThickness"          | The thickness of the vertical line of a sub-bracket grouping staves belonging to the same instrument together

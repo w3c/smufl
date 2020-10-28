@@ -19,3 +19,13 @@ Supplementary to [Note name noteheads](note-name-noteheads.md)
 |<span class="bravura_large">&#xeef6;</span> | **U+EEF6**<br/>*noteFiBlack*<br/>Fi (black note) | <span class="bravura_large">&#xeef7;</span> | **U+EEF7**<br/>*noteSeBlack*<br/>Se (black note)
 |<span class="bravura_large">&#xeef8;</span> | **U+EEF8**<br/>*noteLiBlack*<br/>Li (black note) | <span class="bravura_large">&#xeef9;</span> | **U+EEF9**<br/>*noteLeBlack*<br/>Le (black note)
 |<span class="bravura_large">&#xeefa;</span> | **U+EEFA**<br/>*noteTeBlack*<br/>Te (black note) | &nbsp; | &nbsp;
+
+Recommended stylistic alternates
+--------------------------------
+| **Glyph** | **Description** | **Glyph** | **Description**
+| :-------: | --------------- | :-------: | ---------------
+|<span class="bravura_large">&#xf534;</span> | **uniEEE3.salt01**<br/>*noteMaWhole*<br/>Ma (whole note) | <span class="bravura_large">&#xf537;</span> | **uniEEE7.salt01**<br/>*noteLoWhole*<br/>Lo (whole note)
+|<span class="bravura_large">&#xf53a;</span> | **uniEEE8.salt01**<br/>*noteTaWhole*<br/>Ta (whole note) | <span class="bravura_large">&#xf535;</span> | **uniEEEC.salt01**<br/>*noteMaHalf*<br/>Ma (half note)
+|<span class="bravura_large">&#xf538;</span> | **uniEEF0.salt01**<br/>*noteLoHalf*<br/>Lo (half note) | <span class="bravura_large">&#xf53b;</span> | **uniEEF1.salt01**<br/>*noteTaHalf*<br/>Ta (half note)
+|<span class="bravura_large">&#xf536;</span> | **uniEEF5.salt01**<br/>*noteMaBlack*<br/>Ma (black note) | <span class="bravura_large">&#xf539;</span> | **uniEEF9.salt01**<br/>*noteLoBlack*<br/>Lo (black note)
+|<span class="bravura_large">&#xf53c;</span> | **uniEEFA.salt01**<br/>*noteTaBlack*<br/>Ta (black note) | &nbsp; | &nbsp;

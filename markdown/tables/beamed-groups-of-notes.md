@@ -13,6 +13,10 @@ Beamed groups of notes (U+E1F0–U+E20F)
 |<span class="bravura_large">&#xe1fe;</span> | **U+E1FE**<br/>*textTupletBracketStartShortStem*<br/>Tuplet bracket start for short stem | <span class="bravura_large">&#xe1ff;</span> | **U+E1FF**<br/>*textTuplet3ShortStem*<br/>Tuplet number 3 for short stem
 |<span class="bravura_large">&#xe200;</span> | **U+E200**<br/>*textTupletBracketEndShortStem*<br/>Tuplet bracket end for short stem | <span class="bravura_large">&#xe201;</span> | **U+E201**<br/>*textTupletBracketStartLongStem*<br/>Tuplet bracket start for long stem
 |<span class="bravura_large">&#xe202;</span> | **U+E202**<br/>*textTuplet3LongStem*<br/>Tuplet number 3 for long stem | <span class="bravura_large">&#xe203;</span> | **U+E203**<br/>*textTupletBracketEndLongStem*<br/>Tuplet bracket end for long stem
+|<span class="bravura_large">&#xe204;</span> | **U+E204**<br/>*textHeadlessBlackNoteShortStem*<br/>Headless black note, short stem | <span class="bravura_large">&#xe205;</span> | **U+E205**<br/>*textHeadlessBlackNoteLongStem*<br/>Headless black note, long stem
+|<span class="bravura_large">&#xe206;</span> | **U+E206**<br/>*textHeadlessBlackNoteFrac8thShortStem*<br/>Headless black note, fractional 8th beam, short stem | <span class="bravura_large">&#xe207;</span> | **U+E207**<br/>*textHeadlessBlackNoteFrac8thLongStem*<br/>Headless black note, fractional 8th beam, long stem
+|<span class="bravura_large">&#xe208;</span> | **U+E208**<br/>*textHeadlessBlackNoteFrac16thShortStem*<br/>Headless black note, fractional 16th beam, short stem | <span class="bravura_large">&#xe209;</span> | **U+E209**<br/>*textHeadlessBlackNoteFrac16thLongStem*<br/>Headless black note, fractional 16th beam, long stem
+|<span class="bravura_large">&#xe20a;</span> | **U+E20A**<br/>*textHeadlessBlackNoteFrac32ndLongStem*<br/>Headless black note, fractional 32nd beam, long stem | &nbsp; | &nbsp;
 
 Implementation notes
 ---------------------

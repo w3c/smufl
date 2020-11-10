@@ -163,3 +163,4 @@ This is the GitBook summary of the SMuFL specification.
   * [German organ tablature](tables/german-organ-tablature.md)
   * [Extended Helmholtz-Ellis accidentals (just intonation) supplement](tables/extended-helmholtz-ellis-accidentals-just-intonation-supplement.md)
   * [Other accidentals supplement](tables/other-accidentals.md)
+  * [Techniques noteheads](tables/techniques-noteheads.md)

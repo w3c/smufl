@@ -9,6 +9,7 @@ Plucked techniques (U+E630–U+E63F)
 |<span class="bravura_large">&#xe636;</span> | **U+E636** (and U+1D1B3)<br/>*pluckedWithFingernails*<br/>With fingernails | <span class="bravura_large">&#xe637;</span> | **U+E637**<br/>*pluckedFingernailFlick*<br/>Fingernail flick
 |<span class="bravura_large">&#xe638;</span> | **U+E638** (and U+1D1B4)<br/>*pluckedDamp*<br/>Damp | <span class="bravura_large">&#xe639;</span> | **U+E639** (and U+1D1B5)<br/>*pluckedDampAll*<br/>Damp all
 |<span class="bravura_large">&#xe63a;</span> | **U+E63A**<br/>*pluckedPlectrum*<br/>Plectrum | <span class="bravura_large">&#xe63b;</span> | **U+E63B**<br/>*pluckedDampOnStem*<br/>Damp for stem
+|<span class="bravura_large">&#xe63c;</span> | **U+E63C**<br/>*arpeggiato*<br/>Arpeggiato | &nbsp; | &nbsp;
 
 Recommended stylistic alternates
 --------------------------------

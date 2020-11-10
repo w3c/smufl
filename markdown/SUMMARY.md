@@ -164,3 +164,4 @@ This is the GitBook summary of the SMuFL specification.
   * [Extended Helmholtz-Ellis accidentals (just intonation) supplement](tables/extended-helmholtz-ellis-accidentals-just-intonation-supplement.md)
   * [Other accidentals supplement](tables/other-accidentals.md)
   * [Techniques noteheads](tables/techniques-noteheads.md)
+  * [Chop (percussive bowing) notation](tables/chop-percussive-bowing-notation.md)

@@ -16,6 +16,8 @@ Guitar (U+E830–U+E84F)
 |<span class="bravura_large">&#xe844;</span> | **U+E844**<br/>*guitarFadeOut*<br/>Fade out | <span class="bravura_large">&#xe845;</span> | **U+E845**<br/>*guitarVolumeSwell*<br/>Volume swell
 |<span class="bravura_large">&#xe846;</span> | **U+E846**<br/>*guitarStrumUp*<br/>Strum direction up | <span class="bravura_large">&#xe847;</span> | **U+E847**<br/>*guitarStrumDown*<br/>Strum direction down
 |<span class="bravura_large">&#xe848;</span> | **U+E848**<br/>*guitarBarreFull*<br/>Full barré | <span class="bravura_large">&#xe849;</span> | **U+E849**<br/>*guitarBarreHalf*<br/>Half barré
+|<span class="bravura_large">&#xe84a;</span> | **U+E84A**<br/>*guitarString10*<br/>String number 10 | <span class="bravura_large">&#xe84b;</span> | **U+E84B**<br/>*guitarString11*<br/>String number 11
+|<span class="bravura_large">&#xe84c;</span> | **U+E84C**<br/>*guitarString12*<br/>String number 12 | <span class="bravura_large">&#xe84d;</span> | **U+E84D**<br/>*guitarString13*<br/>String number 13
 
 Recommended stylistic alternates
 --------------------------------

@@ -166,3 +166,4 @@ This is the GitBook summary of the SMuFL specification.
   * [Techniques noteheads](tables/techniques-noteheads.md)
   * [Chop (percussive bowing) notation](tables/chop-percussive-bowing-notation.md)
   * [Medieval and Renaissance prolations supplement](tables/medieval-and-renaissance-prolations-supplement.md)
+  * [Noteheads supplement](tables/noteheads-supplement.md)

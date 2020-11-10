@@ -14,7 +14,7 @@ Holds and pauses (U+E4C0–U+E4DF)
 |<span class="bravura_large">&#xe4d0;</span> | **U+E4D0**<br/>*breathMarkUpbow*<br/>Breath mark (upbow-like) | <span class="bravura_large">&#xe4d1;</span> | **U+E4D1** (and U+1D113)<br/>*caesura*<br/>Caesura
 |<span class="bravura_large">&#xe4d2;</span> | **U+E4D2**<br/>*caesuraThick*<br/>Thick caesura | <span class="bravura_large">&#xe4d3;</span> | **U+E4D3**<br/>*caesuraShort*<br/>Short caesura
 |<span class="bravura_large">&#xe4d4;</span> | **U+E4D4**<br/>*caesuraCurved*<br/>Curved caesura | <span class="bravura_large">&#xe4d5;</span> | **U+E4D5**<br/>*breathMarkSalzedo*<br/>Breath mark (Salzedo)
-|<span class="bravura_large">&#xe4d6;</span> | **U+E4D6**<br/>*curlewSign*<br/>Curlew (Britten) | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xe4d6;</span> | **U+E4D6**<br/>*curlewSign*<br/>Curlew (Britten) | <span class="bravura_large">&#xe4d7;</span> | **U+E4D7**<br/>*caesuraSingleStroke*<br/>Single stroke caesura
 
 Recommended stylistic alternates
 --------------------------------

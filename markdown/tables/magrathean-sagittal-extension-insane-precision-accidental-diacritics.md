@@ -13,8 +13,3 @@ Magrathean Sagittal extension (insane precision) accidental diacritics (U+E3F8�
 |<span class="bravura_large">&#xe406;</span> | **U+E406**<br/>*accSagittal8TinasUp*<br/>8 tinas up, 11⋅17/(5²⋅7)-schismina up, 1.14 cents up | <span class="bravura_large">&#xe407;</span> | **U+E407**<br/>*accSagittal8TinasDown*<br/>8 tinas down, 11⋅17/(5²⋅7)-schismina down, 1.14 cents down
 |<span class="bravura_large">&#xe408;</span> | **U+E408**<br/>*accSagittal9TinasUp*<br/>9 tinas up, 1/(7²⋅11)-schismina up, 1.26 cents up | <span class="bravura_large">&#xe409;</span> | **U+E409**<br/>*accSagittal9TinasDown*<br/>9 tinas down, 1/(7²⋅11)-schismina down, 1.26 cents down
 |<span class="bravura_large">&#xe40a;</span> | **U+E40A**<br/>*accSagittalFractionalTinaUp*<br/>Fractional tina up, 77/(5⋅37)-schismina up, 0.08 cents up | <span class="bravura_large">&#xe40b;</span> | **U+E40B**<br/>*accSagittalFractionalTinaDown*<br/>Fractional tina down, 77/(5⋅37)-schismina down, 0.08 cents down
-
-Implementation notes
----------------------
-
-This range represents alterations of a half to nine-and-a-half tinas. A tina is approximately 0.14 cents.

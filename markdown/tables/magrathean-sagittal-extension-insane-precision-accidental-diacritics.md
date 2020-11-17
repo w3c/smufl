@@ -1,9 +1,15 @@
 Magrathean Sagittal extension (insane precision) accidental diacritics (U+E3F8–U+E41F)
 ======================================================================================
 
-*Reserved for future use.*
-
-Implementation notes
----------------------
-
-This range is reserved for the future definition of 38 glyphs, representing alterations of a half to nine-and-a-half tinas. A tina is approximately 0.14 cents.
+| **Glyph** | **Description** | **Glyph** | **Description**
+| :-------: | --------------- | :-------: | ---------------
+|<span class="bravura_large">&#xe3f8;</span> | **U+E3F8**<br/>*accSagittal1TinaUp*<br/>1 tina up, 7²⋅11⋅19/5-schismina up, 0.17 cents up | <span class="bravura_large">&#xe3f9;</span> | **U+E3F9**<br/>*accSagittal1TinaDown*<br/>1 tina down, 7²⋅11⋅19/5-schismina down, 0.17 cents down
+|<span class="bravura_large">&#xe3fa;</span> | **U+E3FA**<br/>*accSagittal2TinasUp*<br/>2 tinas up, 1/(7³⋅17)-schismina up, 0.30 cents up | <span class="bravura_large">&#xe3fb;</span> | **U+E3FB**<br/>*accSagittal2TinasDown*<br/>2 tinas down, 1/(7³⋅17)-schismina down, 0.30 cents down
+|<span class="bravura_large">&#xe3fc;</span> | **U+E3FC**<br/>*accSagittal3TinasUp*<br/>3 tinas up, 1 mina up, 1/(5⋅7⋅13)-schismina up, 0.42 cents up | <span class="bravura_large">&#xe3fd;</span> | **U+E3FD**<br/>*accSagittal3TinasDown*<br/>3 tinas down, 1 mina down, 1/(5⋅7⋅13)-schismina down, 0.42 cents down
+|<span class="bravura_large">&#xe3fe;</span> | **U+E3FE**<br/>*accSagittal4TinasUp*<br/>4 tinas up, 5²⋅11²/7-schismina up, 0.57 cents up | <span class="bravura_large">&#xe3ff;</span> | **U+E3FF**<br/>*accSagittal4TinasDown*<br/>4 tinas down, 5²⋅11²/7-schismina down, 0.57 cents down
+|<span class="bravura_large">&#xe400;</span> | **U+E400**<br/>*accSagittal5TinasUp*<br/>5 tinas up, 7⁴/25-schismina up, 0.72 cents up | <span class="bravura_large">&#xe401;</span> | **U+E401**<br/>*accSagittal5TinasDown*<br/>5 tinas down, 7⁴/25-schismina down, 0.72 cents down
+|<span class="bravura_large">&#xe402;</span> | **U+E402**<br/>*accSagittal6TinasUp*<br/>6 tinas up, 2 minas up, 65/77-schismina up, 0.83 cents up | <span class="bravura_large">&#xe403;</span> | **U+E403**<br/>*accSagittal6TinasDown*<br/>6 tinas down, 2 minas down, 65/77-schismina down, 0.83 cents down
+|<span class="bravura_large">&#xe404;</span> | **U+E404**<br/>*accSagittal7TinasUp*<br/>7 tinas up, 7/(5²⋅17)-schismina up, 1.02 cents up | <span class="bravura_large">&#xe405;</span> | **U+E405**<br/>*accSagittal7TinasDown*<br/>7 tinas down, 7/(5²⋅17)-schismina down, 1.02 cents down
+|<span class="bravura_large">&#xe406;</span> | **U+E406**<br/>*accSagittal8TinasUp*<br/>8 tinas up, 11⋅17/(5²⋅7)-schismina up, 1.14 cents up | <span class="bravura_large">&#xe407;</span> | **U+E407**<br/>*accSagittal8TinasDown*<br/>8 tinas down, 11⋅17/(5²⋅7)-schismina down, 1.14 cents down
+|<span class="bravura_large">&#xe408;</span> | **U+E408**<br/>*accSagittal9TinasUp*<br/>9 tinas up, 1/(7²⋅11)-schismina up, 1.26 cents up | <span class="bravura_large">&#xe409;</span> | **U+E409**<br/>*accSagittal9TinasDown*<br/>9 tinas down, 1/(7²⋅11)-schismina down, 1.26 cents down
+|<span class="bravura_large">&#xe40a;</span> | **U+E40A**<br/>*accSagittalFractionalTinaUp*<br/>Fractional tina up, 77/(5⋅37)-schismina up, 0.08 cents up | <span class="bravura_large">&#xe40b;</span> | **U+E40B**<br/>*accSagittalFractionalTinaDown*<br/>Fractional tina down, 77/(5⋅37)-schismina down, 0.08 cents down

@@ -2,7 +2,7 @@ Font-specific metadata locations
 --------------------------------
 
 SMuFL-compliant applications running on desktop operating systems such
-as Windows, OS X, or Linux need to be able to determine whether a given
+as Windows, macOS, or Linux need to be able to determine whether a given
 font installed on the system is itself SMuFL-compliant.
 
 There is no simple way to encode this information in the font
@@ -17,7 +17,7 @@ system-wide location that allows access by all users on the system:
 
 -   Windows: %COMMONPROGRAMFILES%/SMuFL/Fonts/*fontname*/*fontname*.json
 
--   OS X: /Library/Application
+-   macOS: /Library/Application
     Support/SMuFL/Fonts/*fontname*/*fontname*.json
 
 -   Linux: $XDG_DATA_DIRS/SMuFL/Fonts/*fontname*/*fontname*.json
@@ -41,7 +41,7 @@ system-wide location, use a user-specific location instead:
 
 -   Windows: %LOCALAPPDATA%/SMuFL/Fonts/*fontname*/*fontname*.json
 
--   OS X: \~/Library/Application
+-   macOS: \~/Library/Application
     Support/SMuFL/Fonts/*fontname*/*fontname*.json
 
 -   Linux: $XDG_DATA_HOME/SMuFL/Fonts/*fontname*/*fontname*.json
@@ -52,7 +52,7 @@ C:\\Users\\*username*\\AppData\\Local.
 On Linux, $XDG_DATA_HOME is an environment variable for user-specific configuration files,
 defined by the [XDG Base Directory Specification](http://standards.freedesktop.org/basedir-spec/latest/).
 
-On OS X, \~ is a shortcut to the current user's home folder,
+On macOS, \~ is a shortcut to the current user's home folder,
 e.g. /Users/*username*/.
 
 It is not typically necessary to require administrator privileges to

@@ -397,7 +397,20 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4.4.2" data-path="glyphswithanchors.html">
+        <li class="chapter " data-level="1.4.4.2" data-path="glyphadvancewidths.html">
+            
+                <a href="glyphadvancewidths.html">
+            
+                    
+                    glyphAdvanceWidths
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.4.3" data-path="glyphswithanchors.html">
             
                 <a href="glyphswithanchors.html">
             
@@ -410,7 +423,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4.4.3" data-path="glyphswithalternates.html">
+        <li class="chapter " data-level="1.4.4.4" data-path="glyphswithalternates.html">
             
                 <a href="glyphswithalternates.html">
             
@@ -423,7 +436,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4.4.4" data-path="glyphbboxes.html">
+        <li class="chapter " data-level="1.4.4.5" data-path="glyphbboxes.html">
             
                 <a href="glyphbboxes.html">
             
@@ -436,7 +449,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4.4.5" data-path="ligatures.html">
+        <li class="chapter " data-level="1.4.4.6" data-path="ligatures.html">
             
                 <a href="ligatures.html">
             
@@ -449,7 +462,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4.4.6" data-path="sets.html">
+        <li class="chapter " data-level="1.4.4.7" data-path="sets.html">
             
                 <a href="sets.html">
             
@@ -462,7 +475,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4.4.7" data-path="optionalglyphs.html">
+        <li class="chapter " data-level="1.4.4.8" data-path="optionalglyphs.html">
             
                 <a href="optionalglyphs.html">
             
@@ -2189,6 +2202,110 @@
             
         </li>
     
+        <li class="chapter " data-level="1.5.124" data-path="../tables/extended-helmholtz-ellis-accidentals-just-intonation-supplement.html">
+            
+                <a href="../tables/extended-helmholtz-ellis-accidentals-just-intonation-supplement.html">
+            
+                    
+                    Extended Helmholtz-Ellis accidentals (just intonation) supplement
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.125" data-path="../tables/other-accidentals.html">
+            
+                <a href="../tables/other-accidentals.html">
+            
+                    
+                    Other accidentals supplement
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.126" data-path="../tables/techniques-noteheads.html">
+            
+                <a href="../tables/techniques-noteheads.html">
+            
+                    
+                    Techniques noteheads
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.127" data-path="../tables/chop-percussive-bowing-notation.html">
+            
+                <a href="../tables/chop-percussive-bowing-notation.html">
+            
+                    
+                    Chop (percussive bowing) notation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.128" data-path="../tables/medieval-and-renaissance-prolations-supplement.html">
+            
+                <a href="../tables/medieval-and-renaissance-prolations-supplement.html">
+            
+                    
+                    Medieval and Renaissance prolations supplement
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.129" data-path="../tables/noteheads-supplement.html">
+            
+                <a href="../tables/noteheads-supplement.html">
+            
+                    
+                    Noteheads supplement
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.130" data-path="../tables/note-name-noteheads-supplement.html">
+            
+                <a href="../tables/note-name-noteheads-supplement.html">
+            
+                    
+                    Note name noteheads supplement
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.131" data-path="../tables/scale-degrees.html">
+            
+                <a href="../tables/scale-degrees.html">
+            
+                    
+                    Scale degrees
+            
+                </a>
+            
+
+            
+        </li>
+    
 
             </ul>
             
@@ -2275,6 +2392,30 @@ numbers to any desired level of precision.</p>
 </tbody>
 </table>
 <p>All other key/value pairs are optional.</p>
+<p>The following key/value pairs may be used, if desired, to specify the
+useful range of sizes for which the font is designed:</p>
+<table>
+<thead>
+<tr>
+<th><em>Key name</em></th>
+<th><em>Description</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&quot;designSize&quot;</td>
+<td>The point size for which the font is optimized, specified in integral decipoints (1/720th inch)</td>
+</tr>
+<tr>
+<td>&quot;sizeRange&quot;</td>
+<td>An array of two point size values, describing the smallest and largest point sizes for which the font can serve well, specified in integral decipoints (1/720th inch)</td>
+</tr>
+</tbody>
+</table>
+<p>These values are based on features in the OpenType font specification to specify
+design size and size range; initially these were encoded in the <strong>size</strong> feature
+in the GPOS table, but has been superseded by the STAT table, which defines sizes
+for families with optical size variants.</p>
 
                                 
                                 </section>
@@ -2318,7 +2459,7 @@ numbers to any desired level of precision.</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Metadata for SMuFL-compliant fonts","level":"1.4.4","depth":2,"next":{"title":"engravingDefaults","level":"1.4.4.1","depth":3,"path":"specification/engravingdefaults.md","ref":"specification/engravingdefaults.md","articles":[]},"previous":{"title":"Metrics and glyph registration for scoring applications","level":"1.4.3","depth":2,"path":"specification/scoring-metrics-glyph-registration.md","ref":"specification/scoring-metrics-glyph-registration.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-sharing"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Standard Music Font Layout","language":"en","gitbook":">=2.0.0","description":"Specification for SMuFL"},"file":{"path":"specification/font-specific-metadata.md","mtime":"2015-08-07T10:37:52.000Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-03-05T15:04:59.358Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Metadata for SMuFL-compliant fonts","level":"1.4.4","depth":2,"next":{"title":"engravingDefaults","level":"1.4.4.1","depth":3,"path":"specification/engravingdefaults.md","ref":"specification/engravingdefaults.md","articles":[]},"previous":{"title":"Metrics and glyph registration for scoring applications","level":"1.4.3","depth":2,"path":"specification/scoring-metrics-glyph-registration.md","ref":"specification/scoring-metrics-glyph-registration.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-sharing"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Standard Music Font Layout","language":"en","gitbook":">=2.0.0","description":"Specification for SMuFL"},"file":{"path":"specification/font-specific-metadata.md","mtime":"2020-11-11T09:50:35.634Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-12-12T12:41:48.951Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

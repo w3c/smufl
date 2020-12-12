@@ -1,11 +1,9 @@
-<img style="float: right;" src="media/back-cg-final.png">
-
 <a href="https://www.w3.org/"><img alt="W3C" height="48" src="https://www.w3.org/Icons/w3c_home" width="72"/></a>
 
 # Standard Music Font Layout (SMuFL)
-## Version 1.3
+## Version 1.4
 
-## Final Community Group Report 5 March 2019
+## Beta version 12 December 2020
 
 **Latest editor's draft:**
 - [https://w3c.github.io/smufl](https://w3c.github.io/smufl/)
@@ -18,8 +16,6 @@
 - [File a bug](https://github.com/w3c/smufl/issues)
 - [Commit history](https://github.com/w3c/smufl/commits/gh-pages)
 
-<p style="font-size: small">Copyright &copy; 2019 the Contributors to the SMuFL Specification version 1.3, published by the <a href="https://www.w3.org/community/music-notation/">Music Notation Community Group</a> under the <a href="https://www.w3.org/community/about/agreements/final/">W3C Community Final Specification Agreement (FSA)</a>. A human-readable <a href="https://www.w3.org/community/about/agreements/fsa-deed/">summary</a> is available.</p>
-
 ---
 
 ### Abstract
@@ -27,7 +23,7 @@ SMuFL is a specification that provides a standard way of mapping the thousands o
 
 The goal of SMuFL is to establish a new standard glyph mapping for musical symbols that is optimised for modern font formats and that can be adopted by a variety of software vendors and font designers, for the benefit of all users of music notation software.
 
-Version 1.3 is the first version released by the W3C Music Notation Community Group. Previous SMuFL versions were released by Steinberg.
+Version 1.4 is the second version to be released by the W3C Music Notation Community Group. Versions of SMuFL prior to version 1.3 were released by Steinberg.
 
 ### Status of this document
 This specification was published by the [W3C Music Notation Community Group](https://www.w3.org/community/music-notation/). It is not a W3C Standard nor is it on the W3C Standards Track. Please note that under the [W3C Community Final Specification Agreement (FSA)](https://www.w3.org/community/about/agreements/final/) other conditions apply. Learn more about [W3C Community and Business Groups](https://www.w3.org/community/).

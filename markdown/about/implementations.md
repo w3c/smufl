@@ -1,9 +1,10 @@
 Implementations
 ---------------
 
-The reference font for SMuFL is Bravura, an OpenType font released under the
-SIL Open Font License that can be downloaded from the [SMuFL web site](http://www.smufl.org/fonts). The example glyphs in this document are all taken
-from Bravura.
+The reference font for SMuFL is Bravura, which can be downloaded from [GitHub](https://github.com/steinbergmedia/bravura/releases).
+Bravura is provided in OpenType, WOFF, WOFF2 and SVG formats, and is released under the
+[SIL Open Font License](https://github.com/steinbergmedia/bravura/releases). The example glyphs
+in this specification are all taken from Bravura.
 
 Other SMuFL-compliant fonts are available under a variety of licenses. A list
 of such fonts can be found [here](http://www.smufl.org/fonts).

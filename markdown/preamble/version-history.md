@@ -1,6 +1,31 @@
 Version history
 ===============
 
+Version 1.40 (2021-01-30):
+
+-   Added new font metadata values for font design size, barline separation, H-bar thickness, and preferred text fonts to accompany music fonts ([#95](https://github.com/w3c/smufl/issues/95), [#102](https://github.com/w3c/smufl/issues/102), [#124](https://github.com/w3c/smufl/issues/124), [#131](https://github.com/w3c/smufl/issues/131))
+-   Added clarification for registration of glyphs in the [Rests](../tables/rests.md) range ([#100](https://github.com/w3c/smufl/issues/100))
+-   Added `fingeringQLower` (U+ED8E) and `fingeringSLower` (U+ED8F) glyphs in the [Fingering supplement](../tables/fingering-supplement.md) range
+-   Added `figbassTripleFlat` (U+ECC1) and `figbassTripleSharp` (U+ECC2)
+-   Added headless notes (U+E204–U+E20A) to [Beamed groups of notes](../tables/beamed-groups-of-notes.md) range ([#77](https://github.com/w3c/smufl/issues/77))
+-   Added glyphs to new [Scale degrees](../tables/scale-degrees.md) range (U+EF00–U+EF07) ([#64](https://github.com/w3c/smufl/issues/64))
+-   Added glyphs in new [Note name noteheads supplement](../tables/note-name-noteheads-supplement.md) range (U+EEE0–U+EEFF) ([#82](https://github.com/w3c/smufl/issues/82))
+-   Added `mensuralWhiteSemibrevis` (U+E962) to [Medieval and Renaissance individual notes](../tables/medieval-and-renaissance-individual-notes.md) range
+-   Added `guitar10`, `guitar11`, `guitar12`, `guitar13` (U+E84A–U+E84D) to [Guitar](../tables/guitar.md) range ([#81](https://github.com/w3c/smufl/issues/81))
+-   Added glyphs in [Medieval and Renaissance prolations supplement](../tables/medieval-and-renaissance-prolations-supplement.md) (U+EE90–U+EE94) ([#88](https://github.com/w3c/smufl/issues/88))
+-   Added Cowell's noteheads for irrational durations (U+EEA1–U+EEB5) to [Noteheads supplement](../tables/noteheads-supplement.md) range ([#93](https://github.com/w3c/smufl/issues/93))
+-   Added `noteheadNancarrowSine` (U+EEA0) in [Noteheads supplement](../tables/noteheads-supplement.md) range ([#92](https://github.com/w3c/smufl/issues/92))
+-   Added `arpeggiato` (U+E63C) to [Plucked techniques](../tables/plucked-techniques.md) range ([#97](https://github.com/w3c/smufl/issues/97))
+-   Added `caesuraSingleStroke` (U+E4D7) to the [Holds and pauses](../tables/holds-and-pauses.md) range ([#108](https://github.com/w3c/smufl/issues/108))
+-   Added Alois Hába's set of accidentals for 24-EDO quarter-tones (U+EE63–U+EE69) to the [Other accidentals supplement](../tables/other-accidentals.supplement.md) range ([#109](https://github.com/w3c/smufl/issues/109))
+-   Added [Chop (percussive bowing) notation](../tables/chop-percussive-bowing-notation.md) range (U+EE80–U+EE8F) ([#115](https://github.com/w3c/smufl/issues/115))
+-   Added `swissRudimentsNoteheadBlackFlam` (U+EE70), `swissRudimentsNoteheadHalfFlam` (U+EE71), `swissRudimentsNoteheadBlackDouble` (U+EE72), `swissRudimentsNoteheadHalfDouble` (U+EE73) to the new [Techniques noteheads](../tables/techniques-noteheads.md) range ([#118](https://github.com/w3c/smufl/issues/118))
+-   Changed registration of `fretboardFilledCircle` (U+E858), `fretboardX` (U+E859) and `fretboardO` (U+E85A) so that they are centred vertically and horizontally around the origin ([#117](https://github.com/w3c/smufl/issues/117))
+-   Added ups and downs accidentals (U+EE60–U+EE63) to new [Other accidentals supplement](../tables/other-accidentals-supplement.md) range ([#124](https://github.com/w3c/smufl/issues/124))
+-   Added recommended stylistic alternates for U+E4A0 and U+E4A1, Rossini accent above and below ([#134](https://github.com/w3c/smufl/issues/134))
+-   Added [Extended Helmholtz-Ellis accidentals (just intonation) supplement](../tables/extended-helmholtz-ellis-accidentals-just-intonation-supplement.md) range (U+EE50–U+EE5F); revised appearance of `accidentalCombiningLower31Schisma` (U+E2EC) and `accidentalCombiningRaise31Schisma` (U+E2ED) ([#126](https://github.com/w3c/smufl/issues/126))
+-   Added glyphs to the [Olympian Sagittal extension (extreme precision) accidental diacritics](../tables/olympian-sagittal-extension-extreme-precision-accidental-diacritics.md) (U+E3F4–U+E3F7) and [Magrathean Sagittal extension (insane precision) accidental diacritics](../tables/magrathean-sagittal-extension-insane-precision-accidental-diacritics.md) (U+E3F8–U+E41F) ranges of Sagittal accidentals ([#156](https://github.com/w3c/smufl/issues/156))
+
 Version 1.30 (2019-01-14):
 
 -   This specification is now published under the terms of the W3C Community Final Specification Agreement (FSA) ([#38](https://github.com/w3c/smufl/issues/38))

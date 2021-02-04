@@ -1,7 +1,0 @@
-.bravura { font-family: "Bravura Text"; }
-.bravura_large { font-family: "Bravura Text"; font-size: 24pt; }
-@font-face
-{
-  font-family: 'Bravura Text';
-  src: url('../media/BravuraText.woff');
-}

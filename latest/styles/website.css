@@ -6,5 +6,5 @@
   src: url('../media/BravuraText.woff');
 }
 .page-inner {
-  max-width: 850px;
+  max-width: 900px !important;
 }

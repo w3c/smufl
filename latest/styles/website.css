@@ -5,3 +5,6 @@
   font-family: 'Bravura Text';
   src: url('../media/BravuraText.woff');
 }
+.page-inner {
+  max-width: 850px;
+}

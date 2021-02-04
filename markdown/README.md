@@ -26,6 +26,6 @@ The goal of SMuFL is to establish a new standard glyph mapping for musical symbo
 Version 1.4 is the second version to be released by the W3C Music Notation Community Group. Versions of SMuFL prior to version 1.3 were released by Steinberg.
 
 ### Status of this document
-This specification was published by the [W3C Music Notation Community Group](https://www.w3.org/community/music-notation/). It is not a W3C Standard nor is it on the W3C Standards Track. Please note that under the [W3C Community Final Specification Agreement (FSA)](https://www.w3.org/community/about/agreements/final/) other conditions apply. Learn more about [W3C Community and Business Groups](https://www.w3.org/community/).
+This specification was published by the [W3C Music Notation Community Group](https://www.w3.org/community/music-notation/). It is not a W3C Standard nor is it on the W3C Standards Track. Please note that under the [W3C Community Contributor License Agreement (CLA)](https://www.w3.org/community/about/agreements/cla/) other conditions apply. Learn more about [W3C Community and Business Groups](https://www.w3.org/community/).
 
 If you wish to make comments regarding this document, please send them to [public-music-notation-contrib@w3.org](mailto:public-music-notation-contrib@w3.org) ([subscribe](mailto:public-music-notation-contrib-request@w3.org?subject=subscribe), [archives](https://lists.w3.org/Archives/Public/public-music-notation-contrib/)).

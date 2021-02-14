@@ -82,6 +82,10 @@ Recommended ligatures
 |<span class="bravura_large">&#xf603;</span> | **uniE09E_uniE087_uniE09F_uniE088**<br/>*timeSig7over8*<br/>7/8 time signature | <span class="bravura_large">&#xf604;</span> | **uniE09E_uniE089_uniE09F_uniE088**<br/>*timeSig9over8*<br/>9/8 time signature
 |<span class="bravura_large">&#xf605;</span> | **uniE09E_uniE081_uniE09E_uniE082_uniE09F_uniE088**<br/>*timeSig12over8*<br/>12/8 time signature | &nbsp; | &nbsp;
 
+Supplementary Groups
+---------------------
+[Time signatures supplement](time-signatures-supplement.md)
+
 Implementation notes
 ---------------------
 

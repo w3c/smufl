@@ -27,3 +27,7 @@ Function theory symbols (U+EA70–U+EA9F)
 |<span class="bravura_large">&#xea9a;</span> | **U+EA9A**<br/>*functionIUpper*<br/>Function theory I | <span class="bravura_large">&#xea9b;</span> | **U+EA9B**<br/>*functionILower*<br/>Function theory i
 |<span class="bravura_large">&#xea9c;</span> | **U+EA9C**<br/>*functionKUpper*<br/>Function theory K | <span class="bravura_large">&#xea9d;</span> | **U+EA9D**<br/>*functionKLower*<br/>Function theory k
 |<span class="bravura_large">&#xea9e;</span> | **U+EA9E**<br/>*functionLUpper*<br/>Function theory L | <span class="bravura_large">&#xea9f;</span> | **U+EA9F**<br/>*functionLLower*<br/>Function theory l
+
+Supplementary Groups
+---------------------
+[Function theory symbols supplement](function-theory-symbols-supplement.md)

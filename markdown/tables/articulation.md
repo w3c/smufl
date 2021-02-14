@@ -36,3 +36,7 @@ Recommended stylistic alternates
 |<span class="bravura_large">&#xf485;</span> | **uniE4B0.ss01**<br/>*articAccentStaccatoAboveSmall*<br/>Accent-staccato above (small staff) | <span class="bravura_large">&#xf486;</span> | **uniE4B1.ss01**<br/>*articAccentStaccatoBelowSmall*<br/>Accent-staccato below (small staff)
 |<span class="bravura_large">&#xf487;</span> | **uniE4B2.ss01**<br/>*articTenutoStaccatoAboveSmall*<br/>Louré (tenuto-staccato) above (small staff) | <span class="bravura_large">&#xf488;</span> | **uniE4B3.ss01**<br/>*articTenutoStaccatoBelowSmall*<br/>Louré (tenuto-staccato) below (small staff)
 |<span class="bravura_large">&#xf489;</span> | **uniE4B4.ss01**<br/>*articTenutoAccentAboveSmall*<br/>Tenuto-accent above (small staff) | <span class="bravura_large">&#xf48a;</span> | **uniE4B5.ss01**<br/>*articTenutoAccentBelowSmall*<br/>Tenuto-accent below (small staff)
+
+Supplementary Groups
+---------------------
+[Articulation supplement](articulation-supplement.md)

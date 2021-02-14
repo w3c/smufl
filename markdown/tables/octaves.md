@@ -21,6 +21,10 @@ Recommended stylistic alternates
 |<span class="bravura_large">&#xf4c6;</span> | **uniE518.salt01**<br/>*ventiquattresimaAlta*<br/>Ventiquattresima (24) alta | <span class="bravura_large">&#xf4c7;</span> | **uniE519.salt01**<br/>*ventiquattresimaBassa*<br/>Ventiquattresima (24) bassa
 |<span class="bravura_large">&#xf4c8;</span> | **uniE51D.salt01**<br/>*sedicesimaBassaMb*<br/>Sedicesima (16) bassa (mb) | <span class="bravura_large">&#xf4c9;</span> | **uniE51E.salt01**<br/>*ventiquattresimaBassaMb*<br/>Ventiquattresima (24) bassa (mb)
 
+Supplementary Groups
+---------------------
+[Octaves supplement](octaves-supplement.md)
+
 Implementation notes
 ---------------------
 

@@ -18,6 +18,10 @@ Shape note noteheads (U+E1B0–U+E1CF)
 |<span class="bravura_large">&#xe1c8;</span> | **U+E1C8**<br/>*noteShapeArrowheadLeftWhite*<br/>Arrowhead left white (Funk 7-shape re) | <span class="bravura_large">&#xe1c9;</span> | **U+E1C9**<br/>*noteShapeArrowheadLeftBlack*<br/>Arrowhead left black (Funk 7-shape re)
 |<span class="bravura_large">&#xe1ca;</span> | **U+E1CA**<br/>*noteShapeTriangleRoundLeftWhite*<br/>Triangle-round left white (Funk 7-shape ti) | <span class="bravura_large">&#xe1cb;</span> | **U+E1CB**<br/>*noteShapeTriangleRoundLeftBlack*<br/>Triangle-round left black (Funk 7-shape ti)
 
+Supplementary Groups
+---------------------
+[Shape note noteheads supplement](shape-note-noteheads-supplement.md)
+
 Implementation notes
 ---------------------
 

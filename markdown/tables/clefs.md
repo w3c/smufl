@@ -76,6 +76,10 @@ Recommended ligatures
 |<span class="bravura_large">&#xf577;</span> | **uniE058_uniE881_uniE882_uniE262**<br/>*gClefSharp12Below*<br/>G clef, sharp 12 below | <span class="bravura_large">&#xf578;</span> | **uniE059_uniE881_uniE262**<br/>*gClefSharp1Above*<br/>G clef, sharp 1 above
 |<span class="bravura_large">&#xf579;</span> | **uniE059_uniE884_uniE262**<br/>*gClefSharp4Above*<br/>G clef, sharp 4 above | <span class="bravura_large">&#xf57a;</span> | **uniE058_uniE262_uniE885**<br/>*gClefSharp5Below*<br/>G clef, sharp 5 below
 
+Supplementary Groups
+---------------------
+[Clefs supplement](clefs-supplement.md)
+
 Implementation notes
 ---------------------
 

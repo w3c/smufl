@@ -19,3 +19,7 @@ Fingering (U+ED10–U+ED2F)
 |<span class="bravura_large">&#xed2a;</span> | **U+ED2A**<br/>*fingeringLeftBracket*<br/>Fingering left bracket | <span class="bravura_large">&#xed2b;</span> | **U+ED2B**<br/>*fingeringRightBracket*<br/>Fingering right bracket
 |<span class="bravura_large">&#xed2c;</span> | **U+ED2C**<br/>*fingeringSeparatorMiddleDot*<br/>Fingering middle dot separator | <span class="bravura_large">&#xed2d;</span> | **U+ED2D**<br/>*fingeringSeparatorMiddleDotWhite*<br/>Fingering white middle dot separator
 |<span class="bravura_large">&#xed2e;</span> | **U+ED2E**<br/>*fingeringSeparatorSlash*<br/>Fingering forward slash separator | &nbsp; | &nbsp;
+
+Supplementary Groups
+---------------------
+[Fingering supplement](fingering-supplement.md)

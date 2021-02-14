@@ -27,3 +27,7 @@ Recommended stylistic alternates
 |<span class="bravura_large">&#xf52b;</span> | **uniEA63.ss10**<br/>*figbassDoubleFlatLongerStem*<br/>Figured bass double flat (longer stem) | <span class="bravura_large">&#xf52c;</span> | **uniEA64.ss10**<br/>*figbassFlatLongerStem*<br/>Figured bass flat (longer stem)
 |<span class="bravura_large">&#xf52d;</span> | **uniEA65.ss10**<br/>*figbassNaturalLongerStem*<br/>Figured bass natural (longer stem) | <span class="bravura_large">&#xf52e;</span> | **uniEA66.ss10**<br/>*figbassSharpLongerStem*<br/>Figured bass sharp (longer stem)
 |<span class="bravura_large">&#xf52f;</span> | **uniEA67.ss10**<br/>*figbassDoubleSharpLongerStem*<br/>Figured bass double sharp (longer stem) | &nbsp; | &nbsp;
+
+Supplementary Groups
+---------------------
+[Figured bass supplement](figured-bass-supplement.md)

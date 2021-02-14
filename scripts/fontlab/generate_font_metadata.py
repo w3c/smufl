@@ -97,7 +97,7 @@ for g in fl.font.glyphs:
     if len(g.anchors) > 0:
         font_metadata['glyphsWithAnchors'][g.note] = {}
         for anchor in g.anchors:
-            fontlab_metadata['glyphsWithAnchors'][g.note][anchor.name] = \
+            font_metadata['glyphsWithAnchors'][g.note][anchor.name] = \
                 [to_cartesian(anchor.x), to_cartesian(anchor.y)]
 
     if int(g.unicode) >= 0xF400:

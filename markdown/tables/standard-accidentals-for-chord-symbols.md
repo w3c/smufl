@@ -14,10 +14,10 @@ Recommended stylistic alternates
 --------------------------------
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xf4dc;</span> | **uniED60.salt01**<br/>*csymAccidentalFlatSmall*<br/>Flat (superscript or subscript) | <span class="bravura_large">&#xf4dd;</span> | **uniED61.salt01**<br/>*csymAccidentalNaturalSmall*<br/>Natural (superscript or subscript)
-|<span class="bravura_large">&#xf4de;</span> | **uniED62.salt01**<br/>*csymAccidentalSharpSmall*<br/>Sharp (superscript or subscript) | <span class="bravura_large">&#xf4df;</span> | **uniED63.salt01**<br/>*csymAccidentalDoubleSharpSmall*<br/>Double sharp (superscript or subscript)
-|<span class="bravura_large">&#xf4e0;</span> | **uniED64.salt01**<br/>*csymAccidentalDoubleFlatSmall*<br/>Double flat (superscript or subscript) | <span class="bravura_large">&#xf4e1;</span> | **uniED65.salt01**<br/>*csymAccidentalTripleSharpSmall*<br/>Triple sharp (superscript or subscript)
-|<span class="bravura_large">&#xf4e2;</span> | **uniED66.salt01**<br/>*csymAccidentalTripleFlatSmall*<br/>Triple flat (superscript or subscript) | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xf4dc;</span> | **uniED60.ss07**<br/>*csymAccidentalFlatSmall*<br/>Flat (superscript or subscript) | <span class="bravura_large">&#xf4dd;</span> | **uniED61.ss07**<br/>*csymAccidentalNaturalSmall*<br/>Natural (superscript or subscript)
+|<span class="bravura_large">&#xf4de;</span> | **uniED62.ss07**<br/>*csymAccidentalSharpSmall*<br/>Sharp (superscript or subscript) | <span class="bravura_large">&#xf4df;</span> | **uniED63.ss07**<br/>*csymAccidentalDoubleSharpSmall*<br/>Double sharp (superscript or subscript)
+|<span class="bravura_large">&#xf4e0;</span> | **uniED64.ss07**<br/>*csymAccidentalDoubleFlatSmall*<br/>Double flat (superscript or subscript) | <span class="bravura_large">&#xf4e1;</span> | **uniED65.ss07**<br/>*csymAccidentalTripleSharpSmall*<br/>Triple sharp (superscript or subscript)
+|<span class="bravura_large">&#xf4e2;</span> | **uniED66.ss07**<br/>*csymAccidentalTripleFlatSmall*<br/>Triple flat (superscript or subscript) | &nbsp; | &nbsp;
 
 Implementation notes
 ---------------------

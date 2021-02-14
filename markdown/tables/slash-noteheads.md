@@ -14,12 +14,12 @@ Recommended stylistic alternates
 --------------------------------
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xf4e3;</span> | **uniE100.salt01**<br/>*noteheadSlashVerticalEndsOversized*<br/>Oversized slash with vertical ends | <span class="bravura_large">&#xf4e4;</span> | **uniE101.salt01**<br/>*noteheadSlashHorizontalEndsOversized*<br/>Oversized slash with horizontal ends
-|<span class="bravura_large">&#xf4e5;</span> | **uniE102.salt01**<br/>*noteheadSlashWhiteWholeOversized*<br/>Oversized white slash whole | <span class="bravura_large">&#xf4e6;</span> | **uniE103.salt01**<br/>*noteheadSlashWhiteHalfOversized*<br/>Oversized white slash half
-|<span class="bravura_large">&#xf4e7;</span> | **uniE104.salt01**<br/>*noteheadSlashDiamondWhiteOversized*<br/>Oversized large white diamond | <span class="bravura_large">&#xf4e8;</span> | **uniE105.salt01**<br/>*noteheadSlashVerticalEndsSmallOversized*<br/>Oversized small slash with vertical ends
-|<span class="bravura_large">&#xf4e9;</span> | **uniE106.salt01**<br/>*noteheadSlashXOversized*<br/>Oversized large X notehead | <span class="bravura_large">&#xf4ea;</span> | **uniE107.salt01**<br/>*noteheadSlashVerticalEndsMutedOversized*<br/>Oversized muted slash with vertical ends
-|<span class="bravura_large">&#xf4eb;</span> | **uniE108.salt01**<br/>*noteheadSlashHorizontalEndsMutedOversized*<br/>Oversized muted slash with horizontal ends | <span class="bravura_large">&#xf4ec;</span> | **uniE109.salt01**<br/>*noteheadSlashWhiteMutedOversized*<br/>Oversized muted white slash
-|<span class="bravura_large">&#xf4ed;</span> | **uniE10A.salt01**<br/>*noteheadSlashWhiteDoubleWholeOversized*<br/>Oversized white slash double whole | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xf4e3;</span> | **uniE100.ss08**<br/>*noteheadSlashVerticalEndsOversized*<br/>Oversized slash with vertical ends | <span class="bravura_large">&#xf4e4;</span> | **uniE101.ss08**<br/>*noteheadSlashHorizontalEndsOversized*<br/>Oversized slash with horizontal ends
+|<span class="bravura_large">&#xf4e5;</span> | **uniE102.ss08**<br/>*noteheadSlashWhiteWholeOversized*<br/>Oversized white slash whole | <span class="bravura_large">&#xf4e6;</span> | **uniE103.ss08**<br/>*noteheadSlashWhiteHalfOversized*<br/>Oversized white slash half
+|<span class="bravura_large">&#xf4e7;</span> | **uniE104.ss08**<br/>*noteheadSlashDiamondWhiteOversized*<br/>Oversized large white diamond | <span class="bravura_large">&#xf4e8;</span> | **uniE105.ss08**<br/>*noteheadSlashVerticalEndsSmallOversized*<br/>Oversized small slash with vertical ends
+|<span class="bravura_large">&#xf4e9;</span> | **uniE106.ss08**<br/>*noteheadSlashXOversized*<br/>Oversized large X notehead | <span class="bravura_large">&#xf4ea;</span> | **uniE107.ss08**<br/>*noteheadSlashVerticalEndsMutedOversized*<br/>Oversized muted slash with vertical ends
+|<span class="bravura_large">&#xf4eb;</span> | **uniE108.ss08**<br/>*noteheadSlashHorizontalEndsMutedOversized*<br/>Oversized muted slash with horizontal ends | <span class="bravura_large">&#xf4ec;</span> | **uniE109.ss08**<br/>*noteheadSlashWhiteMutedOversized*<br/>Oversized muted white slash
+|<span class="bravura_large">&#xf4ed;</span> | **uniE10A.ss08**<br/>*noteheadSlashWhiteDoubleWholeOversized*<br/>Oversized white slash double whole | &nbsp; | &nbsp;
 
 Implementation notes
 ---------------------

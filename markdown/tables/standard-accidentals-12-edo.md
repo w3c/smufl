@@ -15,17 +15,17 @@ Recommended stylistic alternates
 --------------------------------
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xf427;</span> | **uniE260.salt01**<br/>*accidentalFlatSmall*<br/>Flat (for small staves) | <span class="bravura_large">&#xf428;</span> | **uniE261.salt01**<br/>*accidentalNaturalSmall*<br/>Natural (for small staves)
-|<span class="bravura_large">&#xf429;</span> | **uniE262.salt01**<br/>*accidentalSharpSmall*<br/>Sharp (for small staves) | <span class="bravura_large">&#xf4a1;</span> | **uniE264.salt01**<br/>*accidentalDoubleFlatJoinedStems*<br/>Double flat (joined stems)
+|<span class="bravura_large">&#xf427;</span> | **uniE260.ss01**<br/>*accidentalFlatSmall*<br/>Flat (for small staves) | <span class="bravura_large">&#xf428;</span> | **uniE261.ss01**<br/>*accidentalNaturalSmall*<br/>Natural (for small staves)
+|<span class="bravura_large">&#xf429;</span> | **uniE262.ss01**<br/>*accidentalSharpSmall*<br/>Sharp (for small staves) | <span class="bravura_large">&#xf4a1;</span> | **uniE264.salt01**<br/>*accidentalDoubleFlatJoinedStems*<br/>Double flat (joined stems)
 |<span class="bravura_large">&#xf4a2;</span> | **uniE266.salt01**<br/>*accidentalTripleFlatJoinedStems*<br/>Triple flat (joined stems) | &nbsp; | &nbsp;
 
 Recommended ligatures
 ---------------------
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xf5ce;</span> | **uniE26A_uniE260_uniE26B**<br/>*accidentalFlatParens*<br/>Parenthesised flat | <span class="bravura_large">&#xf5cf;</span> | **uniE26A_uniE261_uniE26B**<br/>*accidentalNaturalParens*<br/>Parenthesised natural
-|<span class="bravura_large">&#xf5d0;</span> | **uniE26A_uniE262_uniE26B**<br/>*accidentalSharpParens*<br/>Parenthesised sharp | <span class="bravura_large">&#xf5d1;</span> | **uniE26A_uniE263_uniE26B**<br/>*accidentalDoubleSharpParens*<br/>Parenthesised double sharp
-|<span class="bravura_large">&#xf5d2;</span> | **uniE26A_uniE264_uniE26B**<br/>*accidentalDoubleFlatParens*<br/>Parenthesised double flat | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xf5e0;</span> | **uniE26A_uniE260_uniE26B**<br/>*accidentalFlatParens*<br/>Parenthesised flat | <span class="bravura_large">&#xf5e1;</span> | **uniE26A_uniE261_uniE26B**<br/>*accidentalNaturalParens*<br/>Parenthesised natural
+|<span class="bravura_large">&#xf5e2;</span> | **uniE26A_uniE262_uniE26B**<br/>*accidentalSharpParens*<br/>Parenthesised sharp | <span class="bravura_large">&#xf5e3;</span> | **uniE26A_uniE263_uniE26B**<br/>*accidentalDoubleSharpParens*<br/>Parenthesised double sharp
+|<span class="bravura_large">&#xf5e4;</span> | **uniE26A_uniE264_uniE26B**<br/>*accidentalDoubleFlatParens*<br/>Parenthesised double flat | &nbsp; | &nbsp;
 
 Implementation notes
 ---------------------

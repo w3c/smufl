@@ -44,8 +44,3 @@ Kahnotation (U+EDA0–U+EDFF)
 |<span class="bravura_large">&#xedec;</span> | **U+EDEC**<br/>*kahnOverTheTop*<br/>Over-the-top | <span class="bravura_large">&#xeded;</span> | **U+EDED**<br/>*kahnOverTheTopTap*<br/>Over-the-top-tap
 |<span class="bravura_large">&#xedee;</span> | **U+EDEE**<br/>*kahnLeftFoot*<br/>Left-foot | <span class="bravura_large">&#xedef;</span> | **U+EDEF**<br/>*kahnRightFoot*<br/>Right-foot
 |<span class="bravura_large">&#xedf0;</span> | **U+EDF0**<br/>*kahnLeftTurn*<br/>Left-turn | <span class="bravura_large">&#xedf1;</span> | **U+EDF1**<br/>*kahnRightTurn*<br/>Right-turn
-
-Implementation notes
----------------------
-
-{% include "../implementation_notes/kahnotation.md" %}

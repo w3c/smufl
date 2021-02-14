@@ -25,3 +25,7 @@ Recommended stylistic alternates
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
 |<span class="bravura_large">&#xf43d;</span> | **uniE929.salt01**<br/>*mensuralProportion4Old*<br/>Mensural proportion 4 (old) | &nbsp; | &nbsp;
+
+Supplementary Groups
+---------------------
+[Medieval and Renaissance prolations supplement](medieval-and-renaissance-prolations-supplement.md)

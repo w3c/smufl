@@ -15,9 +15,9 @@ Recommended stylistic alternates
 --------------------------------
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xf4d8;</span> | **uniE870.salt01**<br/>*csymDiminishedSmall*<br/>Diminished (subscript or superscript) | <span class="bravura_large">&#xf4d7;</span> | **uniE871.salt01**<br/>*csymHalfDiminishedSmall*<br/>Half-diminished (subscript or superscript)
-|<span class="bravura_large">&#xf4d9;</span> | **uniE872.salt01**<br/>*csymAugmentedSmall*<br/>Augmented (subscript or superscript) | <span class="bravura_large">&#xf4da;</span> | **uniE873.salt01**<br/>*csymMajorSeventhSmall*<br/>Major seventh (subscript or superscript)
-|<span class="bravura_large">&#xf4db;</span> | **uniE874.salt01**<br/>*csymMinorSmall*<br/>Minor (subscript or superscript) | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xf4d8;</span> | **uniE870.ss07**<br/>*csymDiminishedSmall*<br/>Diminished (subscript or superscript) | <span class="bravura_large">&#xf4d7;</span> | **uniE871.ss07**<br/>*csymHalfDiminishedSmall*<br/>Half-diminished (subscript or superscript)
+|<span class="bravura_large">&#xf4d9;</span> | **uniE872.ss07**<br/>*csymAugmentedSmall*<br/>Augmented (subscript or superscript) | <span class="bravura_large">&#xf4da;</span> | **uniE873.ss07**<br/>*csymMajorSeventhSmall*<br/>Major seventh (subscript or superscript)
+|<span class="bravura_large">&#xf4db;</span> | **uniE874.ss07**<br/>*csymMinorSmall*<br/>Minor (subscript or superscript) | &nbsp; | &nbsp;
 
 Implementation notes
 ---------------------

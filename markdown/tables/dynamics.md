@@ -29,10 +29,10 @@ Recommended stylistic alternates
 --------------------------------
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xf46b;</span> | **uniE520.salt01**<br/>*dynamicPianoSmall*<br/>Piano (small staff) | <span class="bravura_large">&#xf46c;</span> | **uniE521.salt01**<br/>*dynamicMezzoSmall*<br/>Mezzo (small staff)
-|<span class="bravura_large">&#xf46d;</span> | **uniE522.salt01**<br/>*dynamicForteSmall*<br/>Forte (small staff) | <span class="bravura_large">&#xf46e;</span> | **uniE523.salt01**<br/>*dynamicRinforzandoSmall*<br/>Rinforzando (small staff)
-|<span class="bravura_large">&#xf46f;</span> | **uniE524.salt01**<br/>*dynamicSforzandoSmall*<br/>Sforzando (small staff) | <span class="bravura_large">&#xf470;</span> | **uniE525.salt01**<br/>*dynamicZSmall*<br/>Z (small staff)
-|<span class="bravura_large">&#xf471;</span> | **uniE526.salt01**<br/>*dynamicNienteSmall*<br/>Niente (small staff) | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xf46b;</span> | **uniE520.ss01**<br/>*dynamicPianoSmall*<br/>Piano (small staff) | <span class="bravura_large">&#xf46c;</span> | **uniE521.ss01**<br/>*dynamicMezzoSmall*<br/>Mezzo (small staff)
+|<span class="bravura_large">&#xf46d;</span> | **uniE522.ss01**<br/>*dynamicForteSmall*<br/>Forte (small staff) | <span class="bravura_large">&#xf46e;</span> | **uniE523.ss01**<br/>*dynamicRinforzandoSmall*<br/>Rinforzando (small staff)
+|<span class="bravura_large">&#xf46f;</span> | **uniE524.ss01**<br/>*dynamicSforzandoSmall*<br/>Sforzando (small staff) | <span class="bravura_large">&#xf470;</span> | **uniE525.ss01**<br/>*dynamicZSmall*<br/>Z (small staff)
+|<span class="bravura_large">&#xf471;</span> | **uniE526.ss01**<br/>*dynamicNienteSmall*<br/>Niente (small staff) | &nbsp; | &nbsp;
 
 Implementation notes
 ---------------------

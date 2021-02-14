@@ -14,12 +14,12 @@ Recommended stylistic alternates
 --------------------------------
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xf4cc;</span> | **uniE880.salt01**<br/>*tuplet0Light*<br/>Tuplet 0 (light) | <span class="bravura_large">&#xf4cd;</span> | **uniE881.salt01**<br/>*tuplet1Light*<br/>Tuplet 1 (light)
-|<span class="bravura_large">&#xf4ce;</span> | **uniE882.salt01**<br/>*tuplet2Light*<br/>Tuplet 2 (light) | <span class="bravura_large">&#xf4cf;</span> | **uniE883.salt01**<br/>*tuplet3Light*<br/>Tuplet 3 (light)
-|<span class="bravura_large">&#xf4d0;</span> | **uniE884.salt01**<br/>*tuplet4Light*<br/>Tuplet 4 (light) | <span class="bravura_large">&#xf4d1;</span> | **uniE885.salt01**<br/>*tuplet5Light*<br/>Tuplet 5 (light)
-|<span class="bravura_large">&#xf4d2;</span> | **uniE886.salt01**<br/>*tuplet6Light*<br/>Tuplet 6 (light) | <span class="bravura_large">&#xf4d3;</span> | **uniE887.salt01**<br/>*tuplet7Light*<br/>Tuplet 7 (light)
-|<span class="bravura_large">&#xf4d4;</span> | **uniE888.salt01**<br/>*tuplet8Light*<br/>Tuplet 8 (light) | <span class="bravura_large">&#xf4d5;</span> | **uniE889.salt01**<br/>*tuplet9Light*<br/>Tuplet 9 (light)
-|<span class="bravura_large">&#xf4d6;</span> | **uniE88A.salt01**<br/>*tupletColonLight*<br/>Tuplet colon (light) | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xf4cc;</span> | **uniE880.ss06**<br/>*tuplet0Light*<br/>Tuplet 0 (light) | <span class="bravura_large">&#xf4cd;</span> | **uniE881.ss06**<br/>*tuplet1Light*<br/>Tuplet 1 (light)
+|<span class="bravura_large">&#xf4ce;</span> | **uniE882.ss06**<br/>*tuplet2Light*<br/>Tuplet 2 (light) | <span class="bravura_large">&#xf4cf;</span> | **uniE883.ss06**<br/>*tuplet3Light*<br/>Tuplet 3 (light)
+|<span class="bravura_large">&#xf4d0;</span> | **uniE884.ss06**<br/>*tuplet4Light*<br/>Tuplet 4 (light) | <span class="bravura_large">&#xf4d1;</span> | **uniE885.ss06**<br/>*tuplet5Light*<br/>Tuplet 5 (light)
+|<span class="bravura_large">&#xf4d2;</span> | **uniE886.ss06**<br/>*tuplet6Light*<br/>Tuplet 6 (light) | <span class="bravura_large">&#xf4d3;</span> | **uniE887.ss06**<br/>*tuplet7Light*<br/>Tuplet 7 (light)
+|<span class="bravura_large">&#xf4d4;</span> | **uniE888.ss06**<br/>*tuplet8Light*<br/>Tuplet 8 (light) | <span class="bravura_large">&#xf4d5;</span> | **uniE889.ss06**<br/>*tuplet9Light*<br/>Tuplet 9 (light)
+|<span class="bravura_large">&#xf4d6;</span> | **uniE88A.ss06**<br/>*tupletColonLight*<br/>Tuplet colon (light) | &nbsp; | &nbsp;
 
 Implementation notes
 ---------------------

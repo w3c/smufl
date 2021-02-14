@@ -10,7 +10,7 @@ Spartan Sagittal single-shaft accidentals (U+E300–U+E30F)
 |<span class="bravura_large">&#xe308;</span> | **U+E308**<br/>*accSagittal35MediumDiesisUp*<br/>35 medium diesis up, (35M, ~13M, ~125M, 5C plus 7C), 2/9-tone up | <span class="bravura_large">&#xe309;</span> | **U+E309**<br/>*accSagittal35MediumDiesisDown*<br/>35 medium diesis down, 1°[50] 2°[27] down, 2/9-tone down
 |<span class="bravura_large">&#xe30a;</span> | **U+E30A**<br/>*accSagittal11MediumDiesisUp*<br/>11 medium diesis up, (11M), 1°[17 31] 2°46 up, 1/4-tone up | <span class="bravura_large">&#xe30b;</span> | **U+E30B**<br/>*accSagittal11MediumDiesisDown*<br/>11 medium diesis down, 1°[17 31] 2°46 down, 1/4-tone down
 |<span class="bravura_large">&#xe30c;</span> | **U+E30C**<br/>*accSagittal11LargeDiesisUp*<br/>11 large diesis up, (11L), (sharp less 11M), 3° up [46 EDO] | <span class="bravura_large">&#xe30d;</span> | **U+E30D**<br/>*accSagittal11LargeDiesisDown*<br/>11 large diesis down, 3° down [46 EDO]
-|<span class="bravura_large">&#xe30e;</span> | **U+E30E**<br/>*accSagittal35LargeDiesisUp*<br/>35 large diesis up, (35L, ~13L, ~125L,  sharp less 35M), 2°50 up | <span class="bravura_large">&#xe30f;</span> | **U+E30F**<br/>*accSagittal35LargeDiesisDown*<br/>35 large diesis down, 2° down [50 EDO], 5/18-tone down
+|<span class="bravura_large">&#xe30e;</span> | **U+E30E**<br/>*accSagittal35LargeDiesisUp*<br/>35 large diesis up, (35L, ~13L, ~125L, sharp less 35M), 2°50 up | <span class="bravura_large">&#xe30f;</span> | **U+E30F**<br/>*accSagittal35LargeDiesisDown*<br/>35 large diesis down, 2° down [50 EDO], 5/18-tone down
 
 Implementation notes
 ---------------------

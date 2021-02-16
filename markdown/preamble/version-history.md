@@ -6,7 +6,7 @@ Version 1.40 (2021-01-30):
 -   Added new font metadata values for font design size, barline separation, H-bar thickness, and preferred text fonts to accompany music fonts ([#95](https://github.com/w3c/smufl/issues/95), [#102](https://github.com/w3c/smufl/issues/102), [#124](https://github.com/w3c/smufl/issues/124), [#131](https://github.com/w3c/smufl/issues/131))
 -   Added clarification for registration of glyphs in the [Rests](../tables/rests.md) range ([#100](https://github.com/w3c/smufl/issues/100))
 -   Added `fingeringQLower` (U+ED8E) and `fingeringSLower` (U+ED8F) glyphs in the [Fingering supplement](../tables/fingering-supplement.md) range
--   Added `figbassTripleFlat` (U+ECC1) and `figbassTripleSharp` (U+ECC2)
+-   Added `figbassTripleFlat` (U+ECC1) and `figbassTripleSharp` (U+ECC2) in the [Figured bass supplement](../tables/figured-bass-supplement.md) range 
 -   Added headless notes (U+E204–U+E20A) to [Beamed groups of notes](../tables/beamed-groups-of-notes.md) range ([#77](https://github.com/w3c/smufl/issues/77))
 -   Added glyphs to new [Scale degrees](../tables/scale-degrees.md) range (U+EF00–U+EF07) ([#64](https://github.com/w3c/smufl/issues/64))
 -   Added glyphs in new [Note name noteheads supplement](../tables/note-name-noteheads-supplement.md) range (U+EEE0–U+EEFF) ([#82](https://github.com/w3c/smufl/issues/82))

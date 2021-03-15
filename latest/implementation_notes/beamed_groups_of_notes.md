@@ -1,9 +1,11 @@
-This range is most useful in fonts intended for text-based applications,
-with metrics that are compatible for mixing musical symbols with text.
+This range is intended for mixing music symbols with text. Its metrics
+and glyph registrations should follow the guidelines for fonts intended
+for text-based applications, even in fonts that are themselves primarily
+intended for use in scoring applications.
 
-In such a font, these glyphs may be used for displaying complex metric
-modulations and *l’istesso tempo* directions in conjunction with the
-precomposed note glyphs in the **Individual notes** range.
+These glyphs may be used for displaying complex metric modulations and
+*l’istesso tempo* directions in conjunction with the precomposed note
+glyphs in the **Individual notes** range.
 
 Kerning pairs for every combination of these glyphs should be included
 such that the fractional beams overlap slightly with the stems of notes

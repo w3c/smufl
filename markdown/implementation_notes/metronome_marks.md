@@ -1,5 +1,8 @@
-This range is most useful in fonts intended for text-based applications,
-with metrics that are compatible for mixing musical symbols with text.
+This range is intended for mixing music symbols with text. Its metrics
+and glyph registrations should follow the guidelines for fonts intended
+for text-based applications, even in fonts that are themselves primarily
+intended for use in scoring applications.
+
 These precomposed notes may be used for displaying metronome marks and
 simple metric modulations. More complex metric modulations and
 *l’istesso tempo* directions may be drawn using these characters in

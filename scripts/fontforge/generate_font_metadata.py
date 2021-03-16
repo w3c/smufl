@@ -66,6 +66,7 @@ except EnvironmentError:
     sys.exit (1)
  
 fontName = os.path.splitext( os.path.basename(fontFileName) )[0]
+staffSpace = (font.em/4.)
  
 log = open( outDir+fontName.lower()+'.log', 'w+' )
 print >> log, ("\n# # # %s: checking data & generating metadata... # # #" % (fontFileName) )
@@ -160,6 +161,7 @@ print >> log, ("  Checking font..." )
 print >> log
 glyphBBoxes = dict()
 glyphsWithAnchors = dict()
+glyphAdvanceWidths = dict()
 count = 0
 undefCount = 0
 started = False
@@ -169,19 +171,21 @@ for glyph in font:
         count += 1
         validateGlyph( g )
         g.addExtrema();
-        bbox = [round(bb/250., 4) for bb in g.boundingBox()];
+        bbox = [round(bb/staffSpace, 4) for bb in g.boundingBox()];
         bBoxSW = (bbox[0], bbox[1])
         bBoxNE = (bbox[2], bbox[3])
         glyphBBoxes[g.glyphname] = {'bBoxNE':bBoxNE, 'bBoxSW':bBoxSW}
         if len( g.anchorPoints ) > 0:
             anchors = dict()
             for item in g.anchorPoints:
-                anchors[item[0]] = ( round(item[2]/250., 4), round(item[3]/250., 4) )
+                anchors[item[0]] = ( round(item[2]/staffSpace, 4), round(item[3]/staffSpace, 4) )
             glyphsWithAnchors[g.glyphname] = anchors
+        glyphAdvanceWidths[g.glyphname] = round(g.width/staffSpace, 4)
     else:
       undefCount += 1
 metadata["glyphBBoxes"] = glyphBBoxes
 metadata["glyphsWithAnchors"] = glyphsWithAnchors
+metadata["glyphAdvanceWidths"] = glyphAdvanceWidths
 font.close()
 print >> log, ( "\n%d defined glyphs processed (there are %d undefined glyphs)" % (count, undefCount-31) )
 log.close()

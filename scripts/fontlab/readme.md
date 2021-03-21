@@ -78,3 +78,6 @@ and edit this to the fully qualified path to the location of the metadata file.
 Copies glyphs with duplicates in the 'Miscellaneous Symbols' or 'Musical Symbols' Unicode ranges to their appropriate alternate code points as components.
 
 Components in existing glyphs will be decomposed before the duplicate glyphs are generated.
+
+## Other FontLab scripts
+Knut Nergaard ([@knutnergaard](https://github.com/knutnergaard)) has made a number of scripts for FontLab Studio 5 available at his [FontLab-Scripts](https://github.com/knutnergaard/FontLab-Scripts/tree/main/SMuFL) repository, and he welcomes [donations](https://github.com/knutnergaard/FontLab-Scripts) if you find them useful.

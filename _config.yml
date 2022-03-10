@@ -1,1 +1,1 @@
-exclude: [ 'markdown', 'metadata', 'scripts', 'README.md' ]
+exclude: [ 'mdbook', 'metadata', 'scripts', 'README.md' ]

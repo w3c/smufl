@@ -103,6 +103,16 @@ h6:target::before {
     text-decoration: none;
 }
 
+
+/* This will need to be updated if more dark modes are added. */
+.content img .ayu {
+    background: var(--inline-code-color);
+}
+
+.content img .coal {
+    background: var(--inline-code-color);
+}
+
 table {
     margin: 0 auto;
     border-collapse: collapse;

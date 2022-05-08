@@ -3,7 +3,7 @@ window.search = window.search || {};
 (function search(search) {
     // Search functionality
     //
-    // You can use !hasFocus() to prevent keyhandling in your key
+    // You can use !hasFocus() to prevent key handling in your key
     // event handlers while the user is typing their search.
 
     if (!Mark || !elasticlunr) {

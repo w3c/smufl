@@ -119,8 +119,8 @@ def uIndex():
 print 'creating glyphs ...'
 for pua, ums in genDict.iteritems():
 	
-	puaIndx = f.FindGlyph(pua)
-	puaGlyph = f.glyphs[puaIndx]
+	puaIndex = f.FindGlyph(pua)
+	puaGlyph = f.glyphs[puaIndex]
 	newGlyph = Glyph()
 	newGlyph.name = ums
 	newGlyph.unicode = uIndex()
@@ -131,7 +131,7 @@ for pua, ums in genDict.iteritems():
 	else:
 		 
 #	Get components of PUA glyphs 
-		newGlyph.components.append(Component(puaIndx))
+		newGlyph.components.append(Component(puaIndex))
 
 # Get metrics 
 		metrics = puaGlyph.GetMetrics()

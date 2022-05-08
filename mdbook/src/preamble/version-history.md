@@ -439,7 +439,7 @@ Version 0.85 (2014-03-09):
     easily for any interval. Also added *strophicus*, *strophicus
     auctus*, *punctum inclinatum auctum* to the single-note forms range.
 
--   Added new range for Kievian square notation, as used for liturgical
+-   Added new range for Kievan square notation, as used for liturgical
     chant in the Russian Orthodox Church.
 
 -   Added new glyphs for tabling one handbell and tabling a pair
@@ -543,7 +543,7 @@ Version 0.8 (2014-02-03):
 
 -   Added *sfzp* (sforzato-piano) dynamic and ligature.
 
--   Added Penderecki’s quarter-flat and Busotti’s three-quarter
+-   Added Penderecki’s quarter-flat and Bussotti’s three-quarter
     sharp accidentals.
 
 -   Added six further accordion coupler diagrams for right-hand
@@ -808,7 +808,7 @@ Version 0.5 (2013-07-08):
 -   Added combining raise and lower glyphs to figured bass range.
 
 -   Added repetition, angle brackets, and prefix + and ring glyphs to
-    Function theorys range.
+    Function theory range.
 
 -   Added new range for multi-segment lines, including moving all of the
     various “wiggle” glyphs (for trill, glissando, arpeggiando,
@@ -891,7 +891,7 @@ Version 0.2 (2013-02-08)
 
 -   Added three additional mensuration signs.
 
--   Added Riemann Function theorys glyphs.
+-   Added Riemann Function theory glyphs.
 
 Version 0.1 (2013-01-31)
 

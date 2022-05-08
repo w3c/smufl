@@ -543,7 +543,7 @@ Version 0.8 (2014-02-03):
 
 -   Added *sfzp* (sforzato-piano) dynamic and ligature.
 
--   Added Penderecki’s quarter-flat and Busotti’s three-quarter
+-   Added Penderecki’s quarter-flat and Bussotti’s three-quarter
     sharp accidentals.
 
 -   Added six further accordion coupler diagrams for right-hand

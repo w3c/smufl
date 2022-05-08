@@ -1800,7 +1800,7 @@
 		"codepoint": "U+E275",
 		"description": "Quarter-tone sharp"
 	},
-	"accidentalQuarterToneSharpBusotti": {
+	"accidentalQuarterToneSharpBussotti": {
 		"codepoint": "U+E472",
 		"description": "Quarter tone sharp (Bussotti)"
 	},
@@ -1996,7 +1996,7 @@
 		"codepoint": "U+E274",
 		"description": "Three-quarter-tones sharp"
 	},
-	"accidentalThreeQuarterTonesSharpBusotti": {
+	"accidentalThreeQuarterTonesSharpBussotti": {
 		"codepoint": "U+E474",
 		"description": "Three quarter tones sharp (Bussotti)"
 	},

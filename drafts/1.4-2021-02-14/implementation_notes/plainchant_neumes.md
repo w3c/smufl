@@ -8,7 +8,7 @@ line or space of the starting note of the downwards pattern; the
 connecting lines (e.g. **chantConnectingLineAsc3rd**) should likewise be
 positioned on the staff line or space corresponding to the bottom of the
 line; for an ascending liquescent, position **chantAuctumAsc** on the
-starting staff position, and **chantDeminutemUpper** on the ending staff
+starting staff position, and **chantDeminutumUpper** on the ending staff
 position, with the appropriate length of connecting line between them.
 
 Scoring applications should position these glyphs like any other
@@ -40,8 +40,8 @@ that employs OpenType ligatures.
 | ![](../media/chant-torculus-resupinus.png) | Torculus resupinus | chantPunctum + (staffPosRaise1) + chantPunctum + chantPunctum + (staffPosRaise1) + chantPunctumVirga
 | ![](../media/chant-pes-subbipunctus.png) | Pes subbipunctus | chantPodatusLower + (staffPosRaise1) + chantConnectingLineAsc2nd + (staffPosRaise2) + chantPodatusUpper + chantPunctumInclinatum + (staffPosLower1) + chantPunctumInclinatum
 | ![](../media/chant-virga-praetripunctis.png) | Virga praetripunctis | chantPodatusLower + (staffPosRaise1) + chantConnectingLineAsc3rd + (staffPosRaise3) + chantPodatusUpper chantPodatus3rd + (staffPosRaise4) + chantPodatusLower + (staffPosRaise5) + chantConnectingLineAsc2nd + (staffPosRaise6) + chantPodatusUpper
-| ![](../media/chant-epiphonus.png) | Epiphonus (liquescent podatus) | chantAuctumAsc + (staffPosRaise1) + chantDeminutemUpper
-| ![](../media/chant-cephalicus.png) | Cephalicus (liquescent flexa) | chantConnectingLineAsc3rd + (staffPosRaise3) + chantAuctumDesc + (staffPosRaise2) + chantDeminutemLower
-| ![](../media/chant-pinnosa.png) | Pinnosa (liquescent torculus) | chantPunctum + chantConnectingLineAsc4th + (staffPosRaise4) + chantAuctumDesc + (staffPosRaise3) + chantDeminutemLower
-| ![](../media/chant-porrectus-liquescens.png) | Porrectus liquescens | chantPunctumVirgaReversed + (staffPosLower1) + chantAuctumAsc + (staffPosRaise1) + chantDeminutemUpper
-| ![](../media/chant-scandicus-liquescens.png) | Scandicus liquescens | chantPunctum + (staffPosRaise1) + chantAuctumAsc + + (staffPosRaise1) + chantConnectingLineAsc3rd + (staffPosRaise4) + chantDeminutemUpper
+| ![](../media/chant-epiphonus.png) | Epiphonus (liquescent podatus) | chantAuctumAsc + (staffPosRaise1) + chantDeminutumUpper
+| ![](../media/chant-cephalicus.png) | Cephalicus (liquescent flexa) | chantConnectingLineAsc3rd + (staffPosRaise3) + chantAuctumDesc + (staffPosRaise2) + chantDeminutumLower
+| ![](../media/chant-pinnosa.png) | Pinnosa (liquescent torculus) | chantPunctum + chantConnectingLineAsc4th + (staffPosRaise4) + chantAuctumDesc + (staffPosRaise3) + chantDeminutumLower
+| ![](../media/chant-porrectus-liquescens.png) | Porrectus liquescens | chantPunctumVirgaReversed + (staffPosLower1) + chantAuctumAsc + (staffPosRaise1) + chantDeminutumUpper
+| ![](../media/chant-scandicus-liquescens.png) | Scandicus liquescens | chantPunctum + (staffPosRaise1) + chantAuctumAsc + + (staffPosRaise1) + chantConnectingLineAsc3rd + (staffPosRaise4) + chantDeminutumUpper

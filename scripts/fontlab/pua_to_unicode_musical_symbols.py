@@ -127,7 +127,7 @@ for pua, ums in genDict.iteritems():
 	newGlyph.mark = 120
 	
 	if f.has_key(ums):
-		print 'Skipping prexisting glyph: ' + ums
+		print 'Skipping preexisting glyph: ' + ums
 	else:
 		 
 #	Get components of PUA glyphs 

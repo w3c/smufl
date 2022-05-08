@@ -439,7 +439,7 @@ Version 0.85 (2014-03-09):
     easily for any interval. Also added *strophicus*, *strophicus
     auctus*, *punctum inclinatum auctum* to the single-note forms range.
 
--   Added new range for Kievian square notation, as used for liturgical
+-   Added new range for Kievan square notation, as used for liturgical
     chant in the Russian Orthodox Church.
 
 -   Added new glyphs for tabling one handbell and tabling a pair

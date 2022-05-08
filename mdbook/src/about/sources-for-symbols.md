@@ -90,7 +90,7 @@ musical symbols:
 -   Sevsay, Ertugrul: *Handbuch der Instrumentationspraxis.* Kassel:
     Bärenreiter, 2005
 
--   Simmons, Nikita. *A Primer of Kievian Square-Note (Quadratic
+-   Simmons, Nikita. *A Primer of Kievan Square-Note (Quadratic
     or Synodal) Notation*.
     [www.synaxis.info](http://www.synaxis.info), 2004.
 

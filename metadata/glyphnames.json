@@ -5050,9 +5050,9 @@
 		"codepoint": "U+E686",
 		"description": "Thunder effect (Salzedo)"
 	},
-	"harpSalzedoTimpanicSounds": {
+	"harpSalzedoTympanicSounds": {
 		"codepoint": "U+E68B",
-		"description": "Timpanic sounds (Salzedo)"
+		"description": "Tympanic sounds (Salzedo)"
 	},
 	"harpSalzedoWhistlingSounds": {
 		"codepoint": "U+E687",

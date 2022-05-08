@@ -1,6 +1,6 @@
 #MenuTitle: Generate SMuFL metadata JSON (Anchors + BBoxes)
 # -*- coding: utf-8 -*-
-# SMuFL metadata generator for Glyohs
+# SMuFL metadata generator for Glyphs
 # The script should be added to Glyphs scripts folder
 #
 # By default it will output the metadata file onto the user's desktop, but this can be changed

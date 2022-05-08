@@ -627,7 +627,7 @@ function playground_text(playground) {
         var scrollTop = document.scrollingElement.scrollTop;
         var prevScrollTop = scrollTop;
         var minMenuY = -menu.clientHeight - 50;
-        // When the script loads, the page can be at any scroll (e.g. if you reforesh it).
+        // When the script loads, the page can be at any scroll (e.g. if you refresh it).
         menu.style.top = scrollTop + 'px';
         // Same as parseInt(menu.style.top.slice(0, -2), but faster
         var topCache = menu.style.top.slice(0, -2);
